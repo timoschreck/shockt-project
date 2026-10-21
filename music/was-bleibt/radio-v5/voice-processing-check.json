@@ -1,0 +1,17 @@
+{
+  "processed_features": {
+    "voiced_frames": 283,
+    "rough_f0_median_hz": 177.77777777777777,
+    "rough_f0_quartiles_hz": [
+      173.91304347826087,
+      216.21621621621622
+    ],
+    "spectral_centroid_median_hz": 1445.479742863431,
+    "caution": "Rough autocorrelation over separated vocals, not a reliable voice-identity/formant estimate. Different melodic lines are not equivalent test phrases."
+  },
+  "envelope_alignment_best": [
+    0.9897009461965101,
+    0.0
+  ],
+  "zero_lag_correlation": 0.9897009461965101
+}

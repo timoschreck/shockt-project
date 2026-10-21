@@ -1,0 +1,58 @@
+{
+  "title": "Was bleibt? (Radiofassung v5 – Stimmangleichung)",
+  "artist": "shockT project",
+  "created_utc": "2026-10-21T05:03:28.077714+00:00",
+  "duration_seconds": 229.72750566893424,
+  "frames": 10130983,
+  "sample_rate": 44100,
+  "bits": 24,
+  "channels": 2,
+  "base_master_sha256": "f02aaea2fcfae36c9aabccb22fd050b9cd07e5fb021f6c8dbd5e4a1d5c4f0ecf",
+  "vocal_stem_sha256": "8821020a8f5d9d6786d478119cce3f14f983b5d2eb498ab502486ee578b2b5eb",
+  "processing": {
+    "formant_shift_semitones": -1.5,
+    "pitch_and_tempo_preservation_method": "asetrate=40440,aresample=44100,rubberband=tempo=1.090504451039:pitch=1.090504451039:formant=preserved:pitchq=quality:channels=together,apad,atrim=duration=52.3735",
+    "vocal_level_compensation_db": 0.36967374067648656,
+    "existing_tail_master_gain": 0.8298507677841328,
+    "tail_master_linear_fit_rms_error": 6.862118928371362e-08,
+    "correction_start_seconds": 191.21,
+    "mix_method": "Existing v4 mix plus processed-vocal minus original-vocal delta; separated instrumental residual not pitch-shifted or replaced. Stem leakage may also be affected."
+  },
+  "credits": {
+    "before": 2753,
+    "after": 2743,
+    "used": 10,
+    "purpose": "Two Normal stem splits of already hosted source recordings, 5 credits each; no new audio upload completed"
+  },
+  "loudness": {
+    "input_i": "-14.25",
+    "input_tp": "-2.54",
+    "input_lra": "5.40",
+    "input_thresh": "-24.45",
+    "output_i": "-13.52",
+    "output_tp": "-1.00",
+    "output_lra": "4.80",
+    "output_thresh": "-23.62",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.48"
+  },
+  "verification": {
+    "first_190_seconds_identical_pcm_to_v4": true,
+    "duration_unchanged": true,
+    "flac_equals_wav_pcm": true,
+    "source_files_unchanged": true,
+    "true_peak_pass": true
+  },
+  "wav_sha256": "7a6429125558e98d27e592cb50cf376634ff79916dbbfa425a08859a0447ec47",
+  "flac_sha256": "e7146b8d25c132fe4df267ba029082576fffca29ee3e77b442e0ee3aa15ebb06",
+  "decoded_pcm_sha256": "SHA256=d7b0298a63a57385c9263fd587ec4a5f48b23672aaf906a9dd4995ed56724830",
+  "artist_approval": false,
+  "subjective_listening_performed_by_agent": false,
+  "lyrics_submission_ready": false,
+  "review_required": [
+    "Vocal timbre at 03:11 and across final chorus",
+    "No claim of identical singer identity: processing is only a conservative timbre audition",
+    "Check separation/stretching artifacts and unchanged intended notes"
+  ],
+  "note": "Conservative formant/timbre audition, not voice conversion or proof of matching identity. Original user-supplied and generated provenance remains as radio-v4."
+}

@@ -39,3 +39,7 @@ Eine auf 100 bis höchstens 108 Sekunden angeforderte Fortsetzung ergab Variante
 ## 2026-10-21 – Freigabe gilt im musikalischen Zusammenhang
 
 Ein zuvor bestätigter Schluss klang laut Künstler nach Anschluss an eine neue Radio-Passage wie ein anderes Lied. Änderung: Die tatsächlich vorausgehende neue Passage als Quelle für eine Fortsetzung nutzen; alte Einzel-Freigabe nicht als Klangpassung in einem neuen Arrangement behandeln. Einen bestätigten Anfang gezielt schützen und bei zugesagter unveränderter Übernahme mit PCM-Vergleich belegen.
+
+## 2026-10-21 – Stimmfarbe von Tonhöhe unterscheiden
+
+Ein musikalisch verbesserter Schluss wurde wegen abweichender Stimme weiterhin beanstandet. Grobe Grundfrequenz-Mediane der isolierten Stimmen waren ähnlich, ihre Spektren unterschieden sich. Änderung: Nicht pauschal Stimme oder Gesamtmix tiefer stimmen. Gesang getrennt betrachten, Formanten/Klangfarbe zurückhaltend bearbeiten, Tonart und Begleitung schützen sowie zeitliche Ausrichtung, unveränderten Anfang und neue Hörfreigabe prüfen. Messwerte ersetzen weder Stimmidentitäts- noch Klangbeurteilung.

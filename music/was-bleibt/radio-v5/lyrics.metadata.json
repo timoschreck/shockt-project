@@ -1,0 +1,11 @@
+{
+  "version": "radio-v5",
+  "wording_verified": false,
+  "sync_verified": false,
+  "artist_approved": false,
+  "approved_audio_prefix_seconds": 190,
+  "new_ending_approved": false,
+  "submission_ready": false,
+  "submitted_to_musixmatch": false,
+  "processing_note": "Same lyrics and nominal frame timeline as v4. Timbre processing only; all existing wording/sync uncertainties remain."
+}

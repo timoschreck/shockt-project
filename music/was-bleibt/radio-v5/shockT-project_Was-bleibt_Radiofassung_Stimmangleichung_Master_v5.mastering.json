@@ -1,0 +1,36 @@
+{
+  "final": {
+    "duration_seconds": 229.72750566893424,
+    "loudness": {
+      "input_i": "-14.25",
+      "input_tp": "-2.54",
+      "input_lra": "5.40",
+      "input_thresh": "-24.45",
+      "output_i": "-13.52",
+      "output_tp": "-1.00",
+      "output_lra": "4.80",
+      "output_thresh": "-23.62",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.48"
+    },
+    "wav_sha256": "7a6429125558e98d27e592cb50cf376634ff79916dbbfa425a08859a0447ec47",
+    "flac_sha256": "e7146b8d25c132fe4df267ba029082576fffca29ee3e77b442e0ee3aa15ebb06",
+    "decoded_pcm_sha256": "SHA256=d7b0298a63a57385c9263fd587ec4a5f48b23672aaf906a9dd4995ed56724830"
+  },
+  "verification": {
+    "first_190_seconds_identical_pcm_to_v4": true,
+    "duration_unchanged": true,
+    "flac_equals_wav_pcm": true,
+    "source_files_unchanged": true,
+    "true_peak_pass": true
+  },
+  "processing": {
+    "formant_shift_semitones": -1.5,
+    "pitch_and_tempo_preservation_method": "asetrate=40440,aresample=44100,rubberband=tempo=1.090504451039:pitch=1.090504451039:formant=preserved:pitchq=quality:channels=together,apad,atrim=duration=52.3735",
+    "vocal_level_compensation_db": 0.36967374067648656,
+    "existing_tail_master_gain": 0.8298507677841328,
+    "tail_master_linear_fit_rms_error": 6.862118928371362e-08,
+    "correction_start_seconds": 191.21,
+    "mix_method": "Existing v4 mix plus processed-vocal minus original-vocal delta; separated instrumental residual not pitch-shifted or replaced. Stem leakage may also be affected."
+  }
+}

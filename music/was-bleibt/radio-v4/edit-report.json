@@ -45,5 +45,6 @@
   "lyrics_submission_ready": false,
   "submitted_to_spotify_or_musixmatch": false,
   "selection": "Variant 1 ASR has cleaner central closing lines than variant 2. Leading repeats trimmed; final Wer bleibt ASR ambiguous. ASR is not listening approval.",
-  "provenance": "New ending derived from provider MP3; prior v3 prefix retains its documented original/generated provenance."
+  "provenance": "New ending derived from provider MP3; prior v3 prefix retains its documented original/generated provenance.",
+  "artist_review_update": "Musical ending improved, vocal register/timbre still differs at transition; revise vocal matching. No full ending approval."
 }
