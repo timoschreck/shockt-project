@@ -1,0 +1,66 @@
+{
+  "artist": "shockT project",
+  "title": "Was bleibt",
+  "created_utc": "2026-10-21T01:32:02.304452+00:00",
+  "source": {
+    "frames": 14574212,
+    "sample_rate": 44100,
+    "channels": 2,
+    "bits": 16,
+    "duration_seconds": 330.4809977324263,
+    "filename": "Was bleibt.wav",
+    "sha256": "af63ac8a4b6739369aa761b715cb98831aba11429a617927d08519a657720efb",
+    "loudness": {
+      "input_i": "-13.78",
+      "input_tp": "-1.88",
+      "input_lra": "5.00",
+      "input_thresh": "-23.94",
+      "output_i": "-13.26",
+      "output_tp": "-1.00",
+      "output_lra": "4.70",
+      "output_thresh": "-23.36",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.74"
+    }
+  },
+  "processing": {
+    "cleanup": [
+      "highpass=f=15.0:p=2",
+      "afade=t=in:st=0:d=0.005",
+      "afade=t=out:st=330.460997732:d=0.02"
+    ],
+    "normalization": "loudnorm=I=-14:TP=-1:LRA=11:linear=true:measured_I=-13.79:measured_TP=-1.74:measured_LRA=5.00:measured_thresh=-23.95:offset=-0.74:print_format=json",
+    "type": "linear"
+  },
+  "final": {
+    "frames": 14574212,
+    "sample_rate": 44100,
+    "channels": 2,
+    "bits": 24,
+    "duration_seconds": 330.4809977324263,
+    "loudness": {
+      "input_i": "-14.00",
+      "input_tp": "-1.95",
+      "input_lra": "5.00",
+      "input_thresh": "-24.16",
+      "output_i": "-13.26",
+      "output_tp": "-1.00",
+      "output_lra": "4.70",
+      "output_thresh": "-23.36",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.74"
+    },
+    "wav_sha256": "2d46bd715157803b7fe8982fb9cb4a74d911e264047ff1cb4db5e8ef82090466",
+    "flac_sha256": "fff25d7539f31fae847f95e301d933af83daf86a96d982ebd47b5515b6c1e465",
+    "decoded_pcm_sha256": "SHA256=6f9aa8a1d6f1ea68045669c44ccc80763ab707903785791076df8b1cdf9b16c1"
+  },
+  "verification": {
+    "source_unchanged": true,
+    "sample_format_and_duration_pass": true,
+    "loudness_and_true_peak_pass": true,
+    "flac_equals_wav_pcm": true
+  },
+  "listening_review": "not performed by this script",
+  "note": "Technical master. 24-bit output does not recover missing source information.",
+  "tool_version": "ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers"
+}
