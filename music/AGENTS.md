@@ -4,6 +4,8 @@ Für dieses Projekt gilt der Nutzerwunsch: Jeden neu bereitgestellten Song zuers
 
 Der projektübergreifende Skill `master-and-publish-music` unterstützt diesen Ablauf. Aktuelle Projektangaben und Nutzervorgaben haben Vorrang vor Standardwerten des Skills.
 
+Credit-Freigabe des Nutzers vom 21.10.2026: Bei beauftragten Musikbearbeitungen im vorhandenen MakeBestMusic-Konto keine Rücksicht auf den Verbrauch vorhandener Credits nehmen. Nötige Generierungen, Varianten, Zusammenfügen und Exporte sind davon abgedeckt; dafür nicht erneut nachfragen. Die frühere Begrenzung auf drei Credits gilt für kommende Bearbeitungen nicht mehr. Diese Freigabe umfasst keine zusätzlichen Guthabenkäufe oder neuen Abonnements und löst keine unbeauftragten Generierungen aus.
+
 Master, Bearbeitungsentscheidungen, finale Lautstärke/True Peak und Prüfsummen zusammen dokumentieren. Nur tatsächlich durchgeführte Prüfungen als bestanden ausweisen. Automatische Messungen ersetzen keine Hörprüfung.
 
 Zu jedem verfügbaren Song einen originalgetreuen Liedtext für Spotify/Musixmatch vorbereiten und zusammen mit Quellen-/Prüfstatus ablegen. MakeBestMusic-Ausgangstexte dürfen aus dem autorisierten Konto gelesen werden; sie müssen gegen das konkrete Audio geprüft werden. Wiederholungen vollständig erfassen. Keine Produktionsanweisungen oder erfundenen Ergänzungen in Einreichungstexte übernehmen. Offene Wörter und Zeitmarken separat dokumentieren; Entwürfe als `draft` kennzeichnen. Repository-Ablage, Künstlerfreigabe und Übermittlung an Musixmatch sind getrennte Schritte.

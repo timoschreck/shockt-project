@@ -1,5 +1,9 @@
 # Belegte Verbesserungen
 
+## 2026-10-21 – Spätere Credit-Freigaben haben Vorrang
+
+Nach einer zunächst begrenzten Freigabe hat der Nutzer ausdrücklich erklärt, bei weiteren beauftragten Musikbearbeitungen keine Rücksicht auf vorhandene Credits nehmen zu wollen. Änderung: Aktuelle projektbezogene Freigaben berücksichtigen, statt die frühere Einzelgrenze oder wiederholte Credit-Rückfragen fortzuschreiben. Die Erlaubnis betrifft vorhandene Credits im beauftragten Ablauf; zusätzliche Käufe und neue Abonnements bleiben eigenständige Entscheidungen.
+
 ## 2026-10-21 – Folgeschritte können zusätzlich Credits kosten
 
 Für eine Fortsetzung waren drei Credits genehmigt. Das anschließende „Get Whole Song“ berechnete einen weiteren Credit, obwohl das geöffnete Menü keinen Preis zeigte. Das überschritt den genehmigten Verbrauch und wurde dem Nutzer sofort gemeldet. Änderung: Gesamtkosten aller Teilschritte vor Auslösung prüfen; fehlende Preisangabe nicht als kostenlos werten. Ohne geklärte Kosten vorhandene Audiosegmente lokal zusammenfügen. Keine weiteren kostenpflichtigen Schritte nach einer unerwarteten Abbuchung.
