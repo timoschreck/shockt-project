@@ -1,0 +1,104 @@
+{
+  "title": "Was bleibt? (Kurzfassung)",
+  "artist": "shockT project",
+  "status": "technically_verified_listening_draft_artist_review_pending",
+  "created_utc": "2026-10-21T03:23:03.373537+00:00",
+  "source_filename": "Was-bleibt_Schluss-v2_Edit.wav",
+  "source_sha256": "22df6220a5d36b714f354dc8636443dd95f941c3196d69446b0bfebc3f1042ce",
+  "original_recording_sha256": "af63ac8a4b6739369aa761b715cb98831aba11429a617927d08519a657720efb",
+  "source_duration_seconds": 337.973514739229,
+  "duration_seconds": 228.93349206349205,
+  "target_max_seconds": 230,
+  "timeline": [
+    {
+      "source_start": 0,
+      "source_end": 17.71,
+      "output_start": 0,
+      "output_end": 17.71
+    },
+    {
+      "source_start": 34.26,
+      "source_end": 138.7,
+      "output_start": 17.55,
+      "output_end": 121.99000000000001
+    },
+    {
+      "source_start": 170.5,
+      "source_end": 204.38,
+      "output_start": 121.945,
+      "output_end": 155.825
+    },
+    {
+      "source_start": 264.8,
+      "source_end": 337.973514739229,
+      "output_start": 155.76,
+      "output_end": 228.933514739229
+    }
+  ],
+  "crossfades_seconds": [
+    0.16,
+    0.045,
+    0.065
+  ],
+  "removed_source_ranges": [
+    {
+      "start": 17.71,
+      "end": 34.26,
+      "reason": "Shorten instrumental intro after spoken question"
+    },
+    {
+      "start": 138.7,
+      "end": 170.5,
+      "reason": "Remove repeated second main chorus; retain first full chorus"
+    },
+    {
+      "start": 204.38,
+      "end": 264.8,
+      "reason": "Shorten extended spoken bridge and interlude after two introductory bridge lines"
+    }
+  ],
+  "retained": "All four life-stage verses, first full main chorus, two spoken bridge lines, approved v2 ending and original ending resolution",
+  "speed_change": false,
+  "new_generation": false,
+  "audio_provenance": "Supplied WAV through original 302 s; approved generated v2 ending derived from provider MP3. Editing and mastering PCM do not restore losses in that ending source.",
+  "source_unchanged": true,
+  "subjective_listening_performed_by_agent": false,
+  "artist_approval_for_this_short_edit": false,
+  "lyrics_submission_ready": false,
+  "submitted_to_spotify_or_musixmatch": false,
+  "review_required": [
+    "Listen to all three new joins, especially shortened spoken bridge into final verse",
+    "Confirm lyrical completeness and unchanged intended meaning",
+    "Verify new lyrics and sync against this exact short master"
+  ],
+  "boundary_asr_review": {
+    "status": "completed_as_automatic_check_not_listening_approval",
+    "model": "large-v3-turbo",
+    "ranges_seconds": [
+      [
+        12,
+        26
+      ],
+      [
+        116,
+        130
+      ],
+      [
+        149,
+        164
+      ],
+      [
+        188,
+        218
+      ]
+    ],
+    "observations": [
+      "Intro question and first verse recognized on either side of join",
+      "Final sentence of second verse and opening of third verse recognized",
+      "Bridge ending under meiner Haut and next verse Und spaeter wirds kostbar recognized across join",
+      "Previously approved ending remains present; known ASR ambiguity persists"
+    ],
+    "source": "short-v1-joins.asr-draft.json",
+    "caution": "ASR ran on the same edit before gain adjustment/filtering. It cannot certify musical phrasing, voice quality or complete wording."
+  }
+}

@@ -1,0 +1,1352 @@
+{
+  "status": "unapproved_asr_draft",
+  "model": "large-v3-turbo",
+  "language": "de",
+  "source_filename": "Was-bleibt_Kurzfassung_3m49_Edit_v1.wav",
+  "source_sha256": "c8a1897ec126014450d39c93b2fb889e491368373c503f4df6bcafbaa1a9ede7",
+  "duration_seconds": 228.9335,
+  "clip": "12,26,116,130,149,164,188,218",
+  "created_utc": "2026-10-21T03:24:09.399083+00:00",
+  "segments": [
+    {
+      "start": 12.0,
+      "end": 14.06,
+      "text": "Und nur eine Frage",
+      "avg_logprob": -0.22660649653810722,
+      "no_speech_probability": 1.486561741759207e-11,
+      "words": [
+        {
+          "start": 12.0,
+          "end": 12.44,
+          "word": "Und",
+          "probability": 0.6346209049224854
+        },
+        {
+          "start": 12.44,
+          "end": 12.76,
+          "word": "nur",
+          "probability": 0.9864490628242493
+        },
+        {
+          "start": 12.76,
+          "end": 13.28,
+          "word": "eine",
+          "probability": 0.987510085105896
+        },
+        {
+          "start": 13.28,
+          "end": 14.06,
+          "word": "Frage",
+          "probability": 0.9842968583106995
+        }
+      ]
+    },
+    {
+      "start": 16.36,
+      "end": 17.32,
+      "text": "Was bleibt?",
+      "avg_logprob": -0.22660649653810722,
+      "no_speech_probability": 1.486561741759207e-11,
+      "words": [
+        {
+          "start": 16.36,
+          "end": 16.86,
+          "word": "Was",
+          "probability": 0.408656507730484
+        },
+        {
+          "start": 16.86,
+          "end": 17.32,
+          "word": "bleibt?",
+          "probability": 0.9986007809638977
+        }
+      ]
+    },
+    {
+      "start": 20.48,
+      "end": 22.72,
+      "text": "Mit 16 waren wir Könige im Block vor der Tür",
+      "avg_logprob": -0.22660649653810722,
+      "no_speech_probability": 1.486561741759207e-11,
+      "words": [
+        {
+          "start": 20.48,
+          "end": 20.98,
+          "word": "Mit",
+          "probability": 0.965116560459137
+        },
+        {
+          "start": 20.98,
+          "end": 21.2,
+          "word": "16",
+          "probability": 0.9729610085487366
+        },
+        {
+          "start": 21.2,
+          "end": 21.38,
+          "word": "waren",
+          "probability": 0.983633816242218
+        },
+        {
+          "start": 21.38,
+          "end": 21.5,
+          "word": "wir",
+          "probability": 0.9917733073234558
+        },
+        {
+          "start": 21.5,
+          "end": 21.84,
+          "word": "Könige",
+          "probability": 0.9760865569114685
+        },
+        {
+          "start": 21.84,
+          "end": 22.0,
+          "word": "im",
+          "probability": 0.8185721635818481
+        },
+        {
+          "start": 22.0,
+          "end": 22.2,
+          "word": "Block",
+          "probability": 0.9898321628570557
+        },
+        {
+          "start": 22.2,
+          "end": 22.38,
+          "word": "vor",
+          "probability": 0.9699743986129761
+        },
+        {
+          "start": 22.38,
+          "end": 22.54,
+          "word": "der",
+          "probability": 0.9993013143539429
+        },
+        {
+          "start": 22.54,
+          "end": 22.72,
+          "word": "Tür",
+          "probability": 0.9990687966346741
+        }
+      ]
+    },
+    {
+      "start": 22.72,
+      "end": 24.78,
+      "text": "Keinen Cent in der Tasche, doch zu stolz fürs Revier",
+      "avg_logprob": -0.22660649653810722,
+      "no_speech_probability": 1.486561741759207e-11,
+      "words": [
+        {
+          "start": 22.72,
+          "end": 23.02,
+          "word": "Keinen",
+          "probability": 0.9524666965007782
+        },
+        {
+          "start": 23.02,
+          "end": 23.26,
+          "word": "Cent",
+          "probability": 0.9938333034515381
+        },
+        {
+          "start": 23.26,
+          "end": 23.44,
+          "word": "in",
+          "probability": 0.9984461665153503
+        },
+        {
+          "start": 23.44,
+          "end": 23.54,
+          "word": "der",
+          "probability": 0.9945878982543945
+        },
+        {
+          "start": 23.54,
+          "end": 23.8,
+          "word": "Tasche,",
+          "probability": 0.9993707835674286
+        },
+        {
+          "start": 23.82,
+          "end": 23.92,
+          "word": "doch",
+          "probability": 0.991224467754364
+        },
+        {
+          "start": 23.92,
+          "end": 24.04,
+          "word": "zu",
+          "probability": 0.8397646546363831
+        },
+        {
+          "start": 24.04,
+          "end": 24.32,
+          "word": "stolz",
+          "probability": 0.9098917543888092
+        },
+        {
+          "start": 24.32,
+          "end": 24.46,
+          "word": "fürs",
+          "probability": 0.7924090027809143
+        },
+        {
+          "start": 24.46,
+          "end": 24.78,
+          "word": "Revier",
+          "probability": 0.9904729723930359
+        }
+      ]
+    },
+    {
+      "start": 24.78,
+      "end": 25.88,
+      "text": "Frische Sneaker auf Plumpo",
+      "avg_logprob": -0.22660649653810722,
+      "no_speech_probability": 1.486561741759207e-11,
+      "words": [
+        {
+          "start": 24.78,
+          "end": 25.08,
+          "word": "Frische",
+          "probability": 0.799484133720398
+        },
+        {
+          "start": 25.08,
+          "end": 25.38,
+          "word": "Sneaker",
+          "probability": 0.9047451317310333
+        },
+        {
+          "start": 25.38,
+          "end": 25.6,
+          "word": "auf",
+          "probability": 0.9853274822235107
+        },
+        {
+          "start": 25.6,
+          "end": 25.88,
+          "word": "Plumpo",
+          "probability": 0.47864676763614017
+        }
+      ]
+    },
+    {
+      "start": 115.96000000000001,
+      "end": 121.24,
+      "text": "Freiheit, jeder rannte, keiner hielt, bis die Straße ihre Rechnung schrieb",
+      "avg_logprob": -0.20280113884772377,
+      "no_speech_probability": 3.3892739309537845e-11,
+      "words": [
+        {
+          "start": 115.96000000000001,
+          "end": 116.34,
+          "word": "Freiheit,",
+          "probability": 0.09981155395507812
+        },
+        {
+          "start": 116.46,
+          "end": 116.76,
+          "word": "jeder",
+          "probability": 0.9397147297859192
+        },
+        {
+          "start": 116.76,
+          "end": 117.3,
+          "word": "rannte,",
+          "probability": 0.9668153524398804
+        },
+        {
+          "start": 117.42,
+          "end": 117.76,
+          "word": "keiner",
+          "probability": 0.9951791763305664
+        },
+        {
+          "start": 117.76,
+          "end": 118.34,
+          "word": "hielt,",
+          "probability": 0.9973140358924866
+        },
+        {
+          "start": 118.46,
+          "end": 118.6,
+          "word": "bis",
+          "probability": 0.9869109392166138
+        },
+        {
+          "start": 118.6,
+          "end": 118.8,
+          "word": "die",
+          "probability": 0.9988701939582825
+        },
+        {
+          "start": 118.8,
+          "end": 119.24,
+          "word": "Straße",
+          "probability": 0.9871926307678223
+        },
+        {
+          "start": 119.24,
+          "end": 119.82,
+          "word": "ihre",
+          "probability": 0.9960320591926575
+        },
+        {
+          "start": 119.82,
+          "end": 120.58,
+          "word": "Rechnung",
+          "probability": 0.9963869452476501
+        },
+        {
+          "start": 120.58,
+          "end": 121.24,
+          "word": "schrieb",
+          "probability": 0.9328477084636688
+        }
+      ]
+    },
+    {
+      "start": 122.06,
+      "end": 124.12,
+      "text": "Mit 40 mehr zu schnell, viele reden nur Müll",
+      "avg_logprob": -0.20280113884772377,
+      "no_speech_probability": 3.3892739309537845e-11,
+      "words": [
+        {
+          "start": 122.06,
+          "end": 122.44,
+          "word": "Mit",
+          "probability": 0.6737152934074402
+        },
+        {
+          "start": 122.44,
+          "end": 122.7,
+          "word": "40",
+          "probability": 0.9084680080413818
+        },
+        {
+          "start": 122.7,
+          "end": 122.84,
+          "word": "mehr",
+          "probability": 0.34938541054725647
+        },
+        {
+          "start": 122.84,
+          "end": 122.92,
+          "word": "zu",
+          "probability": 0.3566686511039734
+        },
+        {
+          "start": 122.92,
+          "end": 123.18,
+          "word": "schnell,",
+          "probability": 0.9993901252746582
+        },
+        {
+          "start": 123.3,
+          "end": 123.44,
+          "word": "viele",
+          "probability": 0.9901347756385803
+        },
+        {
+          "start": 123.44,
+          "end": 123.74,
+          "word": "reden",
+          "probability": 0.9892615079879761
+        },
+        {
+          "start": 123.74,
+          "end": 123.9,
+          "word": "nur",
+          "probability": 0.9053525328636169
+        },
+        {
+          "start": 123.9,
+          "end": 124.12,
+          "word": "Müll",
+          "probability": 0.9715065062046051
+        }
+      ]
+    },
+    {
+      "start": 124.12,
+      "end": 126.2,
+      "text": "Jeder schwört auf seine Ehre, bis er lief am Haus still",
+      "avg_logprob": -0.20280113884772377,
+      "no_speech_probability": 3.3892739309537845e-11,
+      "words": [
+        {
+          "start": 124.12,
+          "end": 124.44,
+          "word": "Jeder",
+          "probability": 0.3182162642478943
+        },
+        {
+          "start": 124.44,
+          "end": 124.68,
+          "word": "schwört",
+          "probability": 0.8135896325111389
+        },
+        {
+          "start": 124.68,
+          "end": 124.8,
+          "word": "auf",
+          "probability": 0.9978795051574707
+        },
+        {
+          "start": 124.8,
+          "end": 125.0,
+          "word": "seine",
+          "probability": 0.9939193725585938
+        },
+        {
+          "start": 125.0,
+          "end": 125.26,
+          "word": "Ehre,",
+          "probability": 0.9955277740955353
+        },
+        {
+          "start": 125.32,
+          "end": 125.44,
+          "word": "bis",
+          "probability": 0.997883141040802
+        },
+        {
+          "start": 125.44,
+          "end": 125.54,
+          "word": "er",
+          "probability": 0.7480760216712952
+        },
+        {
+          "start": 125.54,
+          "end": 125.74,
+          "word": "lief",
+          "probability": 0.9486040472984314
+        },
+        {
+          "start": 125.74,
+          "end": 125.84,
+          "word": "am",
+          "probability": 0.8809729814529419
+        },
+        {
+          "start": 125.84,
+          "end": 125.98,
+          "word": "Haus",
+          "probability": 0.5314732193946838
+        },
+        {
+          "start": 125.98,
+          "end": 126.2,
+          "word": "still",
+          "probability": 0.9354953169822693
+        }
+      ]
+    },
+    {
+      "start": 126.2,
+      "end": 128.32,
+      "text": "Große Fresse, großes Herz, zunimmt nicht vor Publikum",
+      "avg_logprob": -0.20280113884772377,
+      "no_speech_probability": 3.3892739309537845e-11,
+      "words": [
+        {
+          "start": 126.2,
+          "end": 126.54,
+          "word": "Große",
+          "probability": 0.9738393127918243
+        },
+        {
+          "start": 126.54,
+          "end": 126.78,
+          "word": "Fresse,",
+          "probability": 0.9962209463119507
+        },
+        {
+          "start": 126.88,
+          "end": 127.04,
+          "word": "großes",
+          "probability": 0.995354175567627
+        },
+        {
+          "start": 127.04,
+          "end": 127.32,
+          "word": "Herz,",
+          "probability": 0.9978310465812683
+        },
+        {
+          "start": 127.46,
+          "end": 127.62,
+          "word": "zunimmt",
+          "probability": 0.4775148729483287
+        },
+        {
+          "start": 127.62,
+          "end": 127.76,
+          "word": "nicht",
+          "probability": 0.5423692464828491
+        },
+        {
+          "start": 127.76,
+          "end": 127.84,
+          "word": "vor",
+          "probability": 0.965817391872406
+        },
+        {
+          "start": 127.84,
+          "end": 128.32,
+          "word": "Publikum",
+          "probability": 0.9967340230941772
+        }
+      ]
+    },
+    {
+      "start": 128.32,
+      "end": 129.98,
+      "text": "Doch sobald kein Vorteil wartet, drehen sie sich nicht",
+      "avg_logprob": -0.20280113884772377,
+      "no_speech_probability": 3.3892739309537845e-11,
+      "words": [
+        {
+          "start": 128.32,
+          "end": 128.48,
+          "word": "Doch",
+          "probability": 0.9829332828521729
+        },
+        {
+          "start": 128.48,
+          "end": 128.8,
+          "word": "sobald",
+          "probability": 0.9980727632840475
+        },
+        {
+          "start": 128.8,
+          "end": 128.86,
+          "word": "kein",
+          "probability": 0.9976928234100342
+        },
+        {
+          "start": 128.86,
+          "end": 129.16,
+          "word": "Vorteil",
+          "probability": 0.9997236728668213
+        },
+        {
+          "start": 129.16,
+          "end": 129.34,
+          "word": "wartet,",
+          "probability": 0.7267067730426788
+        },
+        {
+          "start": 129.48,
+          "end": 129.54,
+          "word": "drehen",
+          "probability": 0.9794647395610809
+        },
+        {
+          "start": 129.54,
+          "end": 129.62,
+          "word": "sie",
+          "probability": 0.9918455481529236
+        },
+        {
+          "start": 129.62,
+          "end": 129.84,
+          "word": "sich",
+          "probability": 0.9999285936355591
+        },
+        {
+          "start": 129.84,
+          "end": 129.98,
+          "word": "nicht",
+          "probability": 0.976780354976654
+        }
+      ]
+    },
+    {
+      "start": 149.14,
+      "end": 151.04,
+      "text": "Mehr beweisen, wer ich bin",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 149.14,
+          "end": 149.6,
+          "word": "Mehr",
+          "probability": 0.17375797033309937
+        },
+        {
+          "start": 149.6,
+          "end": 150.06,
+          "word": "beweisen,",
+          "probability": 0.9653167724609375
+        },
+        {
+          "start": 150.22,
+          "end": 150.44,
+          "word": "wer",
+          "probability": 0.9272328615188599
+        },
+        {
+          "start": 150.44,
+          "end": 150.7,
+          "word": "ich",
+          "probability": 0.994763970375061
+        },
+        {
+          "start": 150.7,
+          "end": 151.04,
+          "word": "bin",
+          "probability": 0.9983260035514832
+        }
+      ]
+    },
+    {
+      "start": 151.04,
+      "end": 152.3,
+      "text": "Wer mich kennt",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 151.04,
+          "end": 151.38,
+          "word": "Wer",
+          "probability": 0.5347498655319214
+        },
+        {
+          "start": 151.38,
+          "end": 151.7,
+          "word": "mich",
+          "probability": 0.9983086585998535
+        },
+        {
+          "start": 151.7,
+          "end": 152.3,
+          "word": "kennt",
+          "probability": 0.9993040561676025
+        }
+      ]
+    },
+    {
+      "start": 152.94,
+      "end": 155.72,
+      "text": "Kennt auch die Narben unter meiner Haut",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 152.94,
+          "end": 153.4,
+          "word": "Kennt",
+          "probability": 0.8689223825931549
+        },
+        {
+          "start": 153.4,
+          "end": 153.58,
+          "word": "auch",
+          "probability": 0.9979592561721802
+        },
+        {
+          "start": 153.58,
+          "end": 153.78,
+          "word": "die",
+          "probability": 0.9944867491722107
+        },
+        {
+          "start": 153.78,
+          "end": 154.3,
+          "word": "Narben",
+          "probability": 0.9976017475128174
+        },
+        {
+          "start": 154.3,
+          "end": 154.8,
+          "word": "unter",
+          "probability": 0.9305294752120972
+        },
+        {
+          "start": 154.8,
+          "end": 155.3,
+          "word": "meiner",
+          "probability": 0.9414923191070557
+        },
+        {
+          "start": 155.3,
+          "end": 155.72,
+          "word": "Haut",
+          "probability": 0.47758039832115173
+        }
+      ]
+    },
+    {
+      "start": 155.72,
+      "end": 157.36,
+      "text": "Und später wird's kostbar",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 155.72,
+          "end": 156.38,
+          "word": "Und",
+          "probability": 0.9829230308532715
+        },
+        {
+          "start": 156.38,
+          "end": 156.7,
+          "word": "später",
+          "probability": 0.996849000453949
+        },
+        {
+          "start": 156.7,
+          "end": 157.04,
+          "word": "wird's",
+          "probability": 0.8098649382591248
+        },
+        {
+          "start": 157.04,
+          "end": 157.36,
+          "word": "kostbar",
+          "probability": 0.9867615699768066
+        }
+      ]
+    },
+    {
+      "start": 157.36,
+      "end": 158.38,
+      "text": "Was früher normal war",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 157.36,
+          "end": 157.5,
+          "word": "Was",
+          "probability": 0.3100893795490265
+        },
+        {
+          "start": 157.5,
+          "end": 157.7,
+          "word": "früher",
+          "probability": 0.9955540299415588
+        },
+        {
+          "start": 157.7,
+          "end": 158.06,
+          "word": "normal",
+          "probability": 0.9859614372253418
+        },
+        {
+          "start": 158.06,
+          "end": 158.38,
+          "word": "war",
+          "probability": 0.9574716091156006
+        }
+      ]
+    },
+    {
+      "start": 158.38,
+      "end": 159.46,
+      "text": "Ein Klopper, der noch mitzieht",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 158.38,
+          "end": 158.52,
+          "word": "Ein",
+          "probability": 0.932796061038971
+        },
+        {
+          "start": 158.52,
+          "end": 158.8,
+          "word": "Klopper,",
+          "probability": 0.6726570526758829
+        },
+        {
+          "start": 158.82,
+          "end": 158.9,
+          "word": "der",
+          "probability": 0.995449960231781
+        },
+        {
+          "start": 158.9,
+          "end": 159.04,
+          "word": "noch",
+          "probability": 0.9991517066955566
+        },
+        {
+          "start": 159.04,
+          "end": 159.46,
+          "word": "mitzieht",
+          "probability": 0.9915123184521993
+        }
+      ]
+    },
+    {
+      "start": 159.46,
+      "end": 160.44,
+      "text": "Ein Bruder, der noch da war",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 159.46,
+          "end": 159.54,
+          "word": "Ein",
+          "probability": 0.9536899328231812
+        },
+        {
+          "start": 159.54,
+          "end": 159.8,
+          "word": "Bruder,",
+          "probability": 0.9983294308185577
+        },
+        {
+          "start": 159.8,
+          "end": 159.92,
+          "word": "der",
+          "probability": 0.9995614886283875
+        },
+        {
+          "start": 159.92,
+          "end": 160.08,
+          "word": "noch",
+          "probability": 0.9997175335884094
+        },
+        {
+          "start": 160.08,
+          "end": 160.24,
+          "word": "da",
+          "probability": 0.9999204874038696
+        },
+        {
+          "start": 160.24,
+          "end": 160.44,
+          "word": "war",
+          "probability": 0.9923190474510193
+        }
+      ]
+    },
+    {
+      "start": 160.44,
+      "end": 161.46,
+      "text": "Ein Morgen ohne Schmerzen",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 160.44,
+          "end": 160.58,
+          "word": "Ein",
+          "probability": 0.997143566608429
+        },
+        {
+          "start": 160.58,
+          "end": 160.82,
+          "word": "Morgen",
+          "probability": 0.9877718687057495
+        },
+        {
+          "start": 160.82,
+          "end": 161.0,
+          "word": "ohne",
+          "probability": 0.9981328845024109
+        },
+        {
+          "start": 161.0,
+          "end": 161.46,
+          "word": "Schmerzen",
+          "probability": 0.9989553292592367
+        }
+      ]
+    },
+    {
+      "start": 161.46,
+      "end": 162.32,
+      "text": "Ein Anruf ohne Grund",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 161.46,
+          "end": 161.62,
+          "word": "Ein",
+          "probability": 0.9696895480155945
+        },
+        {
+          "start": 161.62,
+          "end": 161.9,
+          "word": "Anruf",
+          "probability": 0.9960550864537557
+        },
+        {
+          "start": 161.9,
+          "end": 162.04,
+          "word": "ohne",
+          "probability": 0.972759485244751
+        },
+        {
+          "start": 162.04,
+          "end": 162.32,
+          "word": "Grund",
+          "probability": 0.9993282556533813
+        }
+      ]
+    },
+    {
+      "start": 162.32,
+      "end": 163.26,
+      "text": "Jemand sollte wirklich zu",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 162.32,
+          "end": 162.62,
+          "word": "Jemand",
+          "probability": 0.9732049405574799
+        },
+        {
+          "start": 162.62,
+          "end": 162.8,
+          "word": "sollte",
+          "probability": 0.6729725003242493
+        },
+        {
+          "start": 162.8,
+          "end": 163.08,
+          "word": "wirklich",
+          "probability": 0.9803712368011475
+        },
+        {
+          "start": 163.08,
+          "end": 163.26,
+          "word": "zu",
+          "probability": 0.9821929931640625
+        }
+      ]
+    },
+    {
+      "start": 163.26,
+      "end": 163.98,
+      "text": "Und ein Verein, wo muss man",
+      "avg_logprob": -0.19669959599033315,
+      "no_speech_probability": 1.565179409690476e-11,
+      "words": [
+        {
+          "start": 163.26,
+          "end": 163.42,
+          "word": "Und",
+          "probability": 0.12952855229377747
+        },
+        {
+          "start": 163.42,
+          "end": 163.52,
+          "word": "ein",
+          "probability": 0.8384619355201721
+        },
+        {
+          "start": 163.52,
+          "end": 163.72,
+          "word": "Verein,",
+          "probability": 0.9574751257896423
+        },
+        {
+          "start": 163.84,
+          "end": 163.9,
+          "word": "wo",
+          "probability": 0.2759586274623871
+        },
+        {
+          "start": 163.9,
+          "end": 163.98,
+          "word": "muss",
+          "probability": 0.24379506707191467
+        },
+        {
+          "start": 163.98,
+          "end": 163.98,
+          "word": "man",
+          "probability": 0.35696595907211304
+        }
+      ]
+    },
+    {
+      "start": 188.0,
+      "end": 189.78,
+      "text": "Und kam nie zurück",
+      "avg_logprob": -0.2744525347847536,
+      "no_speech_probability": 8.06090350718991e-12,
+      "words": [
+        {
+          "start": 188.0,
+          "end": 188.24,
+          "word": "Und",
+          "probability": 0.4908387064933777
+        },
+        {
+          "start": 188.24,
+          "end": 188.62,
+          "word": "kam",
+          "probability": 0.6761758923530579
+        },
+        {
+          "start": 188.62,
+          "end": 189.04,
+          "word": "nie",
+          "probability": 0.9972066283226013
+        },
+        {
+          "start": 189.04,
+          "end": 189.78,
+          "word": "zurück",
+          "probability": 0.9995507597923279
+        }
+      ]
+    },
+    {
+      "start": 189.78,
+      "end": 192.2,
+      "text": "Heute weiß ich, was noch gilt",
+      "avg_logprob": -0.2744525347847536,
+      "no_speech_probability": 8.06090350718991e-12,
+      "words": [
+        {
+          "start": 189.78,
+          "end": 190.62,
+          "word": "Heute",
+          "probability": 0.9130547046661377
+        },
+        {
+          "start": 190.62,
+          "end": 191.12,
+          "word": "weiß",
+          "probability": 0.9938794374465942
+        },
+        {
+          "start": 191.12,
+          "end": 191.32,
+          "word": "ich,",
+          "probability": 0.9996446371078491
+        },
+        {
+          "start": 191.4,
+          "end": 191.6,
+          "word": "was",
+          "probability": 0.9993902444839478
+        },
+        {
+          "start": 191.6,
+          "end": 191.84,
+          "word": "noch",
+          "probability": 0.9984250068664551
+        },
+        {
+          "start": 191.84,
+          "end": 192.2,
+          "word": "gilt",
+          "probability": 0.7578670978546143
+        }
+      ]
+    },
+    {
+      "start": 192.94,
+      "end": 197.26,
+      "text": "Nicht wer lautet, wer sein Wort erfüllt",
+      "avg_logprob": -0.2744525347847536,
+      "no_speech_probability": 8.06090350718991e-12,
+      "words": [
+        {
+          "start": 192.94,
+          "end": 193.42,
+          "word": "Nicht",
+          "probability": 0.9862725734710693
+        },
+        {
+          "start": 193.42,
+          "end": 193.66,
+          "word": "wer",
+          "probability": 0.5311678647994995
+        },
+        {
+          "start": 193.66,
+          "end": 194.86,
+          "word": "lautet,",
+          "probability": 0.8227267265319824
+        },
+        {
+          "start": 195.26,
+          "end": 195.48,
+          "word": "wer",
+          "probability": 0.9858193397521973
+        },
+        {
+          "start": 195.48,
+          "end": 195.78,
+          "word": "sein",
+          "probability": 0.9964912533760071
+        },
+        {
+          "start": 195.78,
+          "end": 196.4,
+          "word": "Wort",
+          "probability": 0.9956768155097961
+        },
+        {
+          "start": 196.4,
+          "end": 197.26,
+          "word": "erfüllt",
+          "probability": 0.9896247982978821
+        }
+      ]
+    },
+    {
+      "start": 197.26,
+      "end": 200.24,
+      "text": "Was bleibt, wenn jede Maske fällt",
+      "avg_logprob": -0.2744525347847536,
+      "no_speech_probability": 8.06090350718991e-12,
+      "words": [
+        {
+          "start": 197.26,
+          "end": 197.7,
+          "word": "Was",
+          "probability": 0.9948806762695312
+        },
+        {
+          "start": 197.7,
+          "end": 198.2,
+          "word": "bleibt,",
+          "probability": 0.9989696741104126
+        },
+        {
+          "start": 198.38,
+          "end": 198.56,
+          "word": "wenn",
+          "probability": 0.998566210269928
+        },
+        {
+          "start": 198.56,
+          "end": 199.02,
+          "word": "jede",
+          "probability": 0.9941985607147217
+        },
+        {
+          "start": 199.02,
+          "end": 199.68,
+          "word": "Maske",
+          "probability": 0.9973003268241882
+        },
+        {
+          "start": 199.68,
+          "end": 200.24,
+          "word": "fällt",
+          "probability": 0.9918032288551331
+        }
+      ]
+    },
+    {
+      "start": 200.24,
+      "end": 202.28,
+      "text": "Wer nicht hält, dein Nichts mehr hält",
+      "avg_logprob": -0.2744525347847536,
+      "no_speech_probability": 8.06090350718991e-12,
+      "words": [
+        {
+          "start": 200.24,
+          "end": 200.56,
+          "word": "Wer",
+          "probability": 0.21392953395843506
+        },
+        {
+          "start": 200.56,
+          "end": 200.7,
+          "word": "nicht",
+          "probability": 0.3840048015117645
+        },
+        {
+          "start": 200.7,
+          "end": 200.92,
+          "word": "hält,",
+          "probability": 0.944616973400116
+        },
+        {
+          "start": 200.96,
+          "end": 201.14,
+          "word": "dein",
+          "probability": 0.4332318603992462
+        },
+        {
+          "start": 201.14,
+          "end": 201.54,
+          "word": "Nichts",
+          "probability": 0.9122492074966431
+        },
+        {
+          "start": 201.54,
+          "end": 201.82,
+          "word": "mehr",
+          "probability": 0.990537703037262
+        },
+        {
+          "start": 201.82,
+          "end": 202.28,
+          "word": "hält",
+          "probability": 0.9976300001144409
+        }
+      ]
+    },
+    {
+      "start": 202.28,
+      "end": 204.68,
+      "text": "Kein Glanz, kein Rang, kein falscher Schein",
+      "avg_logprob": -0.2744525347847536,
+      "no_speech_probability": 8.06090350718991e-12,
+      "words": [
+        {
+          "start": 202.28,
+          "end": 202.68,
+          "word": "Kein",
+          "probability": 0.9885601997375488
+        },
+        {
+          "start": 202.68,
+          "end": 202.96,
+          "word": "Glanz,",
+          "probability": 0.9954380691051483
+        },
+        {
+          "start": 203.04,
+          "end": 203.18,
+          "word": "kein",
+          "probability": 0.9996465444564819
+        },
+        {
+          "start": 203.18,
+          "end": 203.44,
+          "word": "Rang,",
+          "probability": 0.948608011007309
+        },
+        {
+          "start": 203.52,
+          "end": 203.68,
+          "word": "kein",
+          "probability": 0.9998272061347961
+        },
+        {
+          "start": 203.68,
+          "end": 204.16,
+          "word": "falscher",
+          "probability": 0.9718759953975677
+        },
+        {
+          "start": 204.16,
+          "end": 204.68,
+          "word": "Schein",
+          "probability": 0.9969866871833801
+        }
+      ]
+    },
+    {
+      "start": 204.68,
+      "end": 206.6,
+      "text": "Nur wer bleibt, bis ich nicht allein",
+      "avg_logprob": -0.2744525347847536,
+      "no_speech_probability": 8.06090350718991e-12,
+      "words": [
+        {
+          "start": 204.68,
+          "end": 204.96,
+          "word": "Nur",
+          "probability": 0.9957835674285889
+        },
+        {
+          "start": 204.96,
+          "end": 205.2,
+          "word": "wer",
+          "probability": 0.9950907230377197
+        },
+        {
+          "start": 205.2,
+          "end": 205.52,
+          "word": "bleibt,",
+          "probability": 0.9992319345474243
+        },
+        {
+          "start": 205.58,
+          "end": 205.68,
+          "word": "bis",
+          "probability": 0.7170548439025879
+        },
+        {
+          "start": 205.68,
+          "end": 205.8,
+          "word": "ich",
+          "probability": 0.8955501317977905
+        },
+        {
+          "start": 205.8,
+          "end": 206.04,
+          "word": "nicht",
+          "probability": 0.9980859756469727
+        },
+        {
+          "start": 206.04,
+          "end": 206.6,
+          "word": "allein",
+          "probability": 0.9735957384109497
+        }
+      ]
+    },
+    {
+      "start": 209.62,
+      "end": 210.9,
+      "text": "Was bleibt",
+      "avg_logprob": -0.2744525347847536,
+      "no_speech_probability": 8.06090350718991e-12,
+      "words": [
+        {
+          "start": 209.62,
+          "end": 210.26,
+          "word": "Was",
+          "probability": 0.6466249227523804
+        },
+        {
+          "start": 210.26,
+          "end": 210.9,
+          "word": "bleibt",
+          "probability": 0.9987044334411621
+        }
+      ]
+    },
+    {
+      "start": 213.42000000000002,
+      "end": 214.7,
+      "text": "Wer bleibt",
+      "avg_logprob": -0.2744525347847536,
+      "no_speech_probability": 8.06090350718991e-12,
+      "words": [
+        {
+          "start": 213.42000000000002,
+          "end": 214.06,
+          "word": "Wer",
+          "probability": 0.679865300655365
+        },
+        {
+          "start": 214.06,
+          "end": 214.7,
+          "word": "bleibt",
+          "probability": 0.9873749017715454
+        }
+      ]
+    }
+  ],
+  "listening_review": "not performed",
+  "submitted_to_provider": false
+}

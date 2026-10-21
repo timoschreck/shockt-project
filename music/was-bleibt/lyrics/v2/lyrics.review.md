@@ -1,6 +1,6 @@
 # Liedtextprüfung – Schluss v2
 
-Status: **Entwurf; Wortlaut, Synchronisation und Künstlerfreigabe offen. Nicht einreichen.**
+Status: **Neuer Schluss vom Künstler bestätigt; früherer Wortlaut und Synchronisation bleiben offen. Nicht einreichen.**
 
 `lyrics.musixmatch.draft.txt` ist eine anhand des MakeBestMusic-Textes formatierte Arbeitsfassung. Produktionsanweisungen sind entfernt, vorhandene Wiederholungen ausgeschrieben und bestätigte zusätzliche Bridge-Wiederholung aus dem Audioabgleich ergänzt. Die unklare Zwischenpassage um 04:05–04:25 ist weiterhin aus dem Ausgangstext übernommen und muss noch gegen die Stimme geprüft werden; sie ist nicht als verifizierter Wortlaut zu verstehen.
 
@@ -19,3 +19,7 @@ Vor 05:02 gelten die [offenen Punkte aus v1](../v1/lyrics.review.md) weiter. Die
 Die beiden `new-ending-*.asr-draft.txt` sind automatische Beobachtungen, keine zur Übermittlung bestimmten Texte. Modellübereinstimmung ersetzt keine Hörfreigabe. Es liegen noch keine bestätigten Zeilenzeitmarken für die neue Passage vor; die v1-Synchronisation darf nicht ungeprüft als vollständig für v2 übernommen werden.
 
 Der formatierte Entwurf enthält keine erfundenen Schlusswörter für v1. Die Ergänzungen gehören ausschließlich zur neu generierten Fassung v2. Eine echte Übermittlung an den Liedtextanbieter wurde nicht durchgeführt.
+
+## Künstlerbestätigung vom 21.10.2026
+
+Der Künstler bestätigte nach Anhören der Schluss-Hörprobe: „Ja, Schlussfassung passt“. Dies umfasst Stimme, Übergang und die abgefragten Zeilen „Nicht, wer laut ist – wer sein Wort erfüllt“, „Wer dich hält, wenn nichts mehr hält“ und „Nur wer bleibt, lässt dich nicht allein“. Die vorstehende Tabelle bleibt als historischer automatischer Abgleich erhalten; die genannten Wortunsicherheiten wurden durch diese Künstlerbestätigung geklärt. Übriger Wortlaut, Ausklang und vollständige Synchronisation wurden dadurch nicht pauschal freigegeben. Siehe [Freigabeprotokoll](ending-approval.json).

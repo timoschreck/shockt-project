@@ -23,3 +23,7 @@ Die erste dynamische `loudnorm`-Analyse zeigte andere Ausgangswerte als das Ziel
 ## 2026-10-21 – FLAC und Git-Zugang prüfen
 
 Ein 5:30-Stereo-Master ergab trotz FLAC etwa 64 MB. Änderung: Kompression nicht als Garantie für kleine Uploads behandeln. Binärdateien über einen geeigneten Git-Zugang übertragen und WAV/FLAC-Gleichheit anhand dekodierter PCM-Prüfsummen belegen. Authentifizierungsfehler in einer netzwerkbeschränkten Umgebung von tatsächlich ungültigen Zugangsdaten unterscheiden.
+
+## 2026-10-21 – Kurzfassungen benötigen eigene Zeitleisten und Freigaben
+
+Eine verkürzte Fassung konnte aus erhaltenen Textpassagen erstellt werden. Durch entfernte Wiederholungen und überlappende Übergänge änderten sich sowohl Liedtext als auch Zeilenzeiten. Änderung: Behaltene Quellbereiche und Überblendungen als Schnittplan speichern, Enddauer anhand der exportierten Frames prüfen und Liedtexte samt Zeitmarken pro Schnittversion neu ableiten. Die Bestätigung eines bereits vorhandenen Schlusses nicht als Freigabe neuer Übergänge ausgeben.

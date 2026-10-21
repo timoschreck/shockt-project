@@ -1,0 +1,15 @@
+{
+  "version": "short-v1",
+  "status": "draft",
+  "duration_seconds": 228.93349206349205,
+  "audio_filename": "shockT-project_Was-bleibt_Kurzfassung_3m49_Master_v1.flac",
+  "audio_sha256": "d18e379ac0dd22085d9ac4d9155f8e0c30f3946de10e70f67f84de1fc29fb23f",
+  "wording_verified": false,
+  "sync_verified": false,
+  "artist_approved": false,
+  "submission_ready": false,
+  "ending_inherited_approval": "Only retained ending voice/transition/named words approved for source v2. New edit and joins require separate review.",
+  "lyrics_source": "Source-assisted v2 draft, removed omitted passages; no invented new words",
+  "timings": "Partial source candidates remapped through retained spans and overlap; unverified",
+  "submitted_to_provider": false
+}

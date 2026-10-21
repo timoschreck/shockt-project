@@ -9,8 +9,9 @@
   "provider_merge_url": "https://makebestmusic.com/app/shared-music/7bfdb15c-2695-433e-8164-5393cc81ab86",
   "provider_download_format": "MP3, 48 kHz, stereo; lossy source for the new ending",
   "editing": "Preserve supplied WAV through 302 s. Crossfade 20 ms into provider ending decoded and resampled to 44.1 kHz. Master complete edit separately.",
-  "status": "technically_verified_audition_candidate",
-  "artist_listening_approved": false,
+  "status": "technically_verified_master_with_artist_approved_ending",
+  "artist_listening_approved": true,
   "lyrics_submission_ready": false,
-  "submitted_to_musixmatch": false
+  "submitted_to_musixmatch": false,
+  "artist_listening_approval_scope": "Ending voice, transition and named closing lines, 2026-10-21"
 }

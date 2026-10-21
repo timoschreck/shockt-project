@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-21",
+  "source": "direct user reply in project conversation",
+  "reply": "Ja, Schlussfassung passt",
+  "audio_version": "shockT-project_Was-bleibt_Schluss-v2_Master_v2",
+  "scope": [
+    "new ending voice",
+    "transition into ending",
+    "Nicht, wer laut ist – wer sein Wort erfüllt",
+    "Wer dich hält, wenn nichts mehr hält",
+    "Nur wer bleibt, lässt dich nicht allein"
+  ],
+  "not_inferred": [
+    "full earlier lyrics approved",
+    "line synchronization approved",
+    "distributor release approved",
+    "Musixmatch submission completed"
+  ]
+}

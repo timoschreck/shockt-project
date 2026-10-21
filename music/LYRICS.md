@@ -7,7 +7,8 @@ Stand: 21.10.2026. Die hier abgelegten Liedtextdateien sind nach ihrem Prüfstat
 | Song | Material | Status |
 | --- | --- | --- |
 | [Was bleibt?](was-bleibt/lyrics/v1/lyrics.review.md) | Gelieferte WAV, Master v1, MakeBestMusic-Ausgangstext, zwei lokale Audio-Transkriptionsentwürfe | Wortlaut und Synchronisation offen; Schlussfragment dokumentiert |
-| [Was bleibt? – Schluss v2](was-bleibt/lyrics/v2/lyrics.review.md) | Neuer generierter Schluss, lokal geschnittene und gemasterte Gesamtfassung, formatierter Textentwurf, zwei Abgleiche des neuen Gesangs | Technisch geprüfte Hörfassung; genaue Schlusswörter und Künstlerfreigabe offen |
+| [Was bleibt? – Schluss v2](was-bleibt/lyrics/v2/lyrics.review.md) | Neuer generierter Schluss, lokal geschnittene und gemasterte Gesamtfassung, formatierter Textentwurf, zwei Abgleiche des neuen Gesangs | Neuer Schluss einschließlich abgefragter Wörter vom Künstler bestätigt; frühere Textteile und vollständige Synchronisation offen |
+| [Was bleibt? – Kurzfassung 3:49](was-bleibt/short-v1/README.md) | Gemasterter Schnitt aus v2; gekürzter Text und neu berechnete partielle Zeitmarken | Neue Übergänge und Gesamtfassung zur Hörprüfung; Liedtext und Synchronisation bleiben Entwürfe |
 | Unendlichkeit | Vom Künstler als bestehende Veröffentlichung genannt | Passende Audiodatei und Originaltext noch nicht bereitgestellt; keine Transkription behauptet |
 
 Weitere vom Künstler nach und nach bereitgestellte Songs werden in denselben Ablauf aufgenommen. Weitere Entwürfe im Musikdienst sind damit nicht automatisch freigegebene Releases.

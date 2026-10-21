@@ -1,6 +1,6 @@
 # Was bleibt? – Schluss v2
 
-**Technisch geprüfte Hörfassung; Künstlerfreigabe und Liedtextfreigabe offen.**
+**Technisch geprüfte Fassung; neuer Schluss vom Künstler bestätigt. Vollständige Liedtext- und Synchronisationsprüfung offen.**
 
 Für die abgebrochene Schluss-Passage wurde im autorisierten MakeBestMusic-Projekt einmal eine Fortsetzung ab **05:02** erzeugt. Der Dienst lieferte zwei Varianten. Die etwa 35 Sekunden lange Variante wurde zu einer Gesamtfassung zusammengefügt. Die [native Dienstfassung](https://makebestmusic.com/app/shared-music/7bfdb15c-2695-433e-8164-5393cc81ab86) ist separat vom hier abgelegten lokalen Master zu betrachten.
 
@@ -22,6 +22,6 @@ Details: [Mastering-Protokoll](shockT-project_Was-bleibt_Schluss-v2_Master_v2.ma
 
 ## Noch zu prüfen
 
-Der neue Gesang wurde automatisch gegen den Textvorschlag abgeglichen. Dabei bleiben einige Wörter um **05:02–05:06**, **05:09–05:11** und **05:13–05:16** unklar. Eine subjektive Prüfung von Stimme, Übergang und Wortlaut wurde nicht durchgeführt. Die Hörfassung ist daher noch nicht für einen Distributor oder für eine Liedtext-Einreichung freigegeben.
+Der Künstler hat die Schluss-Hörprobe am 21.10.2026 angehört und mit „Ja, Schlussfassung passt“ Stimme, Übergang und die drei zuvor unklaren Schlusszeilen bestätigt. Die [Freigabe mit begrenztem Umfang](../lyrics/v2/ending-approval.json) ist dokumentiert. Diese Rückmeldung bestätigt nicht automatisch sämtliche früheren Liedtextzeilen, die Synchronisation oder eine Einreichung beim Distributor.
 
 Die [Liedtextdateien v2](../lyrics/v2/lyrics.review.md) enthalten einen quellenbasierten Formatentwurf und die offenen Punkte. Eine tatsächliche Einreichung bei Musixmatch/Spotify ist nicht erfolgt.

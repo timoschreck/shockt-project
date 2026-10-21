@@ -25,6 +25,14 @@ Messungen allein rechtfertigen keinen kreativen EQ, keine Stereoverbreiterung od
 
 Vorhandene Werkzeuge verwenden. Bei Bedarf FFmpeg über ein seriöses Paket wie `imageio-ffmpeg` installieren, isoliert vom Repository. Keine binären Werkzeuge oder Paketordner committen. Für PCM-WAV-Quellen kann [scripts/master_wav.py](scripts/master_wav.py) Zweipass-Messung, konservative Bearbeitung und Verifikation übernehmen. Parameter pro Song wählen, nicht blind Standardwerte anwenden. Bei fehlender Peak-Reserve stoppt das Skript, statt unbemerkt auf dynamische Normalisierung zu wechseln.
 
+## Kurzfassungen und neue Schnittversionen
+
+Bei einem Laufzeitlimit zunächst einen nachvollziehbaren Schnittplan aus der vorhandenen Aufnahme erstellen. Vollständige Textgedanken und musikalische Phrasen erhalten; wiederholte Refrains, lange Vor-/Nachspiele und Zwischenpassagen als Kürzungskandidaten prüfen. Keine Beschleunigung oder Neugenerierung nur zum Einhalten der Dauer, sofern ein sinnvoller Schnitt ausreicht.
+
+Behaltene Quellbereiche, Ausgabezeiten und jede Überblendung dokumentieren. Die endgültige Dauer aus den tatsächlich exportierten Frames prüfen; Überblendungszeiten verkürzen die Gesamtlaufzeit zusätzlich. Neue Übergänge gesondert prüfen und nicht aus einer früheren Freigabe anderer Passagen als genehmigt ableiten.
+
+Liedtext und Zeitmarken pro Schnittversion neu ableiten: entfernte Wiederholungen und Strophen auch im Text entfernen, Zeilenzeiten anhand der Schnittzeitleiste inklusive Überlappungen umrechnen und anschließend am finalen Audio prüfen. Automatisch umgerechnete Zeitmarken bleiben bis zur Hörprüfung Entwürfe. Jede neue Schnittfassung separat mastern, messen und versionieren.
+
 ## Liedtexte und Textüberarbeitung
 
 Für verfügbare Songs Original-Liedtexte aus bereitgestellten Dateien oder dem vom Nutzer autorisierten Musikprojekt beziehen, beispielsweise aus MakeBestMusic. Das passende Audio und die genaue Version abgleichen. Ausgangstext ist eine Referenz, kein Nachweis des tatsächlich Gesungenen. Auffällige Längengrenzen, abgebrochene Wörter, zusätzliche Wiederholungen und geänderte Zeilen ausdrücklich prüfen. Keine fehlenden Schlusswörter anhand von Reim oder Thema als Transkription erfinden.
