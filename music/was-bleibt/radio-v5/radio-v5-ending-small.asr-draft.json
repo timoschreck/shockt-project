@@ -1,0 +1,344 @@
+{
+  "status": "unapproved_asr_draft",
+  "model": "small",
+  "language": "de",
+  "source_filename": "shockT-project_Was-bleibt_Radiofassung_Stimmangleichung_Master_v5.flac",
+  "source_sha256": "e7146b8d25c132fe4df267ba029082576fffca29ee3e77b442e0ee3aa15ebb06",
+  "duration_seconds": 229.7275,
+  "clip": "189,229.73",
+  "created_utc": "2026-10-21T05:42:43.237783+00:00",
+  "segments": [
+    {
+      "start": 189.84,
+      "end": 195.0,
+      "text": "Heute weiß ich Paras noch, Gill, nicht wer lautes wär, sein Wort erfüllt",
+      "avg_logprob": -0.2980361649623284,
+      "no_speech_probability": 0.7284190058708191,
+      "words": [
+        {
+          "start": 189.84,
+          "end": 190.54,
+          "word": "Heute",
+          "probability": 0.6954702138900757
+        },
+        {
+          "start": 190.54,
+          "end": 190.9,
+          "word": "weiß",
+          "probability": 0.9623988270759583
+        },
+        {
+          "start": 190.9,
+          "end": 191.2,
+          "word": "ich",
+          "probability": 0.7931187152862549
+        },
+        {
+          "start": 191.2,
+          "end": 191.76,
+          "word": "Paras",
+          "probability": 0.5257130712270737
+        },
+        {
+          "start": 191.76,
+          "end": 192.1,
+          "word": "noch,",
+          "probability": 0.6584671139717102
+        },
+        {
+          "start": 192.32,
+          "end": 192.6,
+          "word": "Gill,",
+          "probability": 0.3116702735424042
+        },
+        {
+          "start": 192.86,
+          "end": 193.02,
+          "word": "nicht",
+          "probability": 0.504863440990448
+        },
+        {
+          "start": 193.02,
+          "end": 193.22,
+          "word": "wer",
+          "probability": 0.46119922399520874
+        },
+        {
+          "start": 193.22,
+          "end": 193.66,
+          "word": "lautes",
+          "probability": 0.6599406450986862
+        },
+        {
+          "start": 193.66,
+          "end": 194.0,
+          "word": "wär,",
+          "probability": 0.24842235445976257
+        },
+        {
+          "start": 194.08,
+          "end": 194.28,
+          "word": "sein",
+          "probability": 0.8908578753471375
+        },
+        {
+          "start": 194.28,
+          "end": 194.58,
+          "word": "Wort",
+          "probability": 0.9878212809562683
+        },
+        {
+          "start": 194.58,
+          "end": 195.0,
+          "word": "erfüllt",
+          "probability": 0.9029010534286499
+        }
+      ]
+    },
+    {
+      "start": 195.52,
+      "end": 198.72,
+      "text": "Was bleibt, wenn jede Maske fällt",
+      "avg_logprob": -0.2980361649623284,
+      "no_speech_probability": 0.7284190058708191,
+      "words": [
+        {
+          "start": 195.52,
+          "end": 195.92,
+          "word": "Was",
+          "probability": 0.2999378442764282
+        },
+        {
+          "start": 195.92,
+          "end": 196.42,
+          "word": "bleibt,",
+          "probability": 0.9507458209991455
+        },
+        {
+          "start": 196.66,
+          "end": 196.84,
+          "word": "wenn",
+          "probability": 0.9588111639022827
+        },
+        {
+          "start": 196.84,
+          "end": 197.2,
+          "word": "jede",
+          "probability": 0.15822714567184448
+        },
+        {
+          "start": 197.2,
+          "end": 197.88,
+          "word": "Maske",
+          "probability": 0.9163258373737335
+        },
+        {
+          "start": 197.88,
+          "end": 198.72,
+          "word": "fällt",
+          "probability": 0.7660626769065857
+        }
+      ]
+    },
+    {
+      "start": 198.72,
+      "end": 202.7,
+      "text": "Wer dich hält, wenn nichts mehr hält",
+      "avg_logprob": -0.2980361649623284,
+      "no_speech_probability": 0.7284190058708191,
+      "words": [
+        {
+          "start": 198.72,
+          "end": 199.76,
+          "word": "Wer",
+          "probability": 0.6888389587402344
+        },
+        {
+          "start": 199.76,
+          "end": 200.32,
+          "word": "dich",
+          "probability": 0.9602281451225281
+        },
+        {
+          "start": 200.32,
+          "end": 200.92,
+          "word": "hält,",
+          "probability": 0.9762892127037048
+        },
+        {
+          "start": 201.26,
+          "end": 201.44,
+          "word": "wenn",
+          "probability": 0.9851236939430237
+        },
+        {
+          "start": 201.44,
+          "end": 201.8,
+          "word": "nichts",
+          "probability": 0.9563471674919128
+        },
+        {
+          "start": 201.8,
+          "end": 202.16,
+          "word": "mehr",
+          "probability": 0.9955474138259888
+        },
+        {
+          "start": 202.16,
+          "end": 202.7,
+          "word": "hält",
+          "probability": 0.975408673286438
+        }
+      ]
+    },
+    {
+      "start": 202.7,
+      "end": 205.12,
+      "text": "Kein Glanz, kein Rand, kein falscher Schein",
+      "avg_logprob": -0.2980361649623284,
+      "no_speech_probability": 0.7284190058708191,
+      "words": [
+        {
+          "start": 202.7,
+          "end": 203.02,
+          "word": "Kein",
+          "probability": 0.7752556204795837
+        },
+        {
+          "start": 203.02,
+          "end": 203.26,
+          "word": "Glanz,",
+          "probability": 0.9729865491390228
+        },
+        {
+          "start": 203.34,
+          "end": 203.48,
+          "word": "kein",
+          "probability": 0.9867843985557556
+        },
+        {
+          "start": 203.48,
+          "end": 203.72,
+          "word": "Rand,",
+          "probability": 0.4026867747306824
+        },
+        {
+          "start": 203.88,
+          "end": 204.0,
+          "word": "kein",
+          "probability": 0.9957247972488403
+        },
+        {
+          "start": 204.0,
+          "end": 204.48,
+          "word": "falscher",
+          "probability": 0.9753566086292267
+        },
+        {
+          "start": 204.48,
+          "end": 205.12,
+          "word": "Schein",
+          "probability": 0.9846321940422058
+        }
+      ]
+    },
+    {
+      "start": 205.12,
+      "end": 207.76,
+      "text": "Nur wer bleibt, lässt dich nicht allein",
+      "avg_logprob": -0.2980361649623284,
+      "no_speech_probability": 0.7284190058708191,
+      "words": [
+        {
+          "start": 205.12,
+          "end": 205.34,
+          "word": "Nur",
+          "probability": 0.9321261644363403
+        },
+        {
+          "start": 205.34,
+          "end": 205.54,
+          "word": "wer",
+          "probability": 0.9848841428756714
+        },
+        {
+          "start": 205.54,
+          "end": 206.06,
+          "word": "bleibt,",
+          "probability": 0.9654377102851868
+        },
+        {
+          "start": 206.18,
+          "end": 206.36,
+          "word": "lässt",
+          "probability": 0.9812559485435486
+        },
+        {
+          "start": 206.36,
+          "end": 206.62,
+          "word": "dich",
+          "probability": 0.8403360843658447
+        },
+        {
+          "start": 206.62,
+          "end": 207.12,
+          "word": "nicht",
+          "probability": 0.9877079129219055
+        },
+        {
+          "start": 207.12,
+          "end": 207.76,
+          "word": "allein",
+          "probability": 0.8314634561538696
+        }
+      ]
+    },
+    {
+      "start": 208.84,
+      "end": 215.44,
+      "text": "Was bleibt, was bleibt, was bleibt",
+      "avg_logprob": -0.2980361649623284,
+      "no_speech_probability": 0.7284190058708191,
+      "words": [
+        {
+          "start": 208.84,
+          "end": 209.54,
+          "word": "Was",
+          "probability": 0.9069347977638245
+        },
+        {
+          "start": 209.54,
+          "end": 210.08,
+          "word": "bleibt,",
+          "probability": 0.9977108240127563
+        },
+        {
+          "start": 210.78,
+          "end": 211.6,
+          "word": "was",
+          "probability": 0.6161069869995117
+        },
+        {
+          "start": 211.6,
+          "end": 212.28,
+          "word": "bleibt,",
+          "probability": 0.9960395097732544
+        },
+        {
+          "start": 212.44,
+          "end": 213.62,
+          "word": "was",
+          "probability": 0.9693651795387268
+        },
+        {
+          "start": 213.62,
+          "end": 215.44,
+          "word": "bleibt",
+          "probability": 0.9973412156105042
+        }
+      ]
+    }
+  ],
+  "listening_review": "not performed",
+  "submitted_to_provider": false
+}

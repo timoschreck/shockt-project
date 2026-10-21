@@ -2,6 +2,8 @@
 
 Stand: 21.10.2026. Die hier abgelegten Liedtextdateien sind nach ihrem Prüfstatus zu verwenden. Ein Repository-Upload ist keine Übermittlung an Spotify oder Musixmatch.
 
+**Aktuelle Arbeitsfassung: [Radiofassung v5 – vollständiger Textabgleich und offene Stellen](was-bleibt/radio-v5/lyrics.review.md).** Die tatsächliche v5-Datei wurde erneut vollständig lokal transkribiert (69 automatische Segmente) und der Schluss mit einem zweiten Modell geprüft. Audio bleibt unverändert. Die neue vollständige automatische Zeitmarkenfassung enthält weiterhin Erkennungsfehler; Wortlaut, einzelne Zeileneinsätze und Schlussfreigabe bleiben offen. Die längeren Fassungen und früheren Schnitte unten sind Versionshistorie.
+
 ## Aktueller Katalog
 
 | Song | Material | Status |

@@ -27,3 +27,7 @@ Siehe Messprotokoll, `edit-report.json`, `voice-analysis.json` und `voice-proces
 Bitte besonders ab **03:11** prüfen, ob die Schlussstimme näher an die vorangehende Stimme rückt und ob Zischlaute, Chor, Ausklang oder Stimmübergang durch die Bearbeitung leiden. Der Agent hat keine subjektive Hörprüfung durchgeführt; die moderate Einstellung ist ein Vorschlag für die Künstlerprüfung.
 
 Liedtext und nominale Zeitleiste werden aus v4 als Entwürfe übernommen. Keine Wörter wurden absichtlich geändert oder neu erzeugt. Alle offenen Wortlaut- und Synchronisationsfragen bleiben bestehen. Keine Übermittlung an Spotify, Musixmatch oder Distributor. Quellen haben weiterhin die in v4 dokumentierten MP3-Anteile; WAV/FLAC rekonstruieren keine verlorene Quellinformation.
+
+## Erneuter vollständiger Textabgleich
+
+Der vollständige lokale ASR-Abgleich der tatsächlichen v5-Datei und eine zweite Schlussprüfung liegen jetzt vor. Siehe [offene Wörter und Zeiteinsätze](lyrics.review.md). Die neue `lyrics.sync.full.asr-draft.lrc` ist eine vollständige automatische Segment-Zeitleiste mit Erkennungsfehlern, keine freigegebene Synchronisation. Die historische partielle LRC bleibt nachvollziehbar erhalten. Audio und Einreichungsstatus wurden nicht verändert.

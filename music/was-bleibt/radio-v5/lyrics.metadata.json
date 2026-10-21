@@ -7,5 +7,16 @@
   "new_ending_approved": false,
   "submission_ready": false,
   "submitted_to_musixmatch": false,
-  "processing_note": "Same lyrics and nominal frame timeline as v4. Timbre processing only; all existing wording/sync uncertainties remain."
+  "processing_note": "Same lyrics and nominal frame timeline as v4. Timbre processing only; all existing wording/sync uncertainties remain.",
+  "audio_source_sha256": "e7146b8d25c132fe4df267ba029082576fffca29ee3e77b442e0ee3aa15ebb06",
+  "full_audio_asr_draft": "radio-v5-full.asr-draft.json",
+  "full_audio_asr_model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo",
+  "ending_second_model_check": "radio-v5-ending-small.asr-draft.json",
+  "asr_segment_count": 69,
+  "current_timing_workfile": "lyrics.sync.full.asr-draft.lrc",
+  "timing_unit": "ASR segments; not yet manually aligned lyric lines",
+  "review_file": "lyrics.review.md",
+  "reference_lyrics_audio_match_verified": false,
+  "spotify_track_id": null,
+  "isrc": null
 }
