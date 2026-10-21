@@ -1,5 +1,7 @@
 # Was bleibt? – Kurzfassung v1
 
+**Vom Künstler beanstandet: Übergang bei 02:02 verliert den erwarteten Refrain. Überarbeitet in [Kurzfassung v2](../short-v2/README.md).**
+
 **Gemasterte Hörfassung, 3:48,933 Minuten. Neue Schnittfassung noch nicht vom Künstler abgehört/freigegeben.**
 
 Ausgangsmaterial ist die lokale Schnittfassung mit dem bereits vom Künstler bestätigten neuen Schluss v2. Alle vier Lebensphasen bleiben enthalten. Gesang und Musik wurden nicht beschleunigt und nicht neu generiert. Langfassungen und Originaldatei bleiben unverändert.

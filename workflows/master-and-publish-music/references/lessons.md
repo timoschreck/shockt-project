@@ -27,3 +27,7 @@ Ein 5:30-Stereo-Master ergab trotz FLAC etwa 64 MB. Änderung: Kompression nicht
 ## 2026-10-21 – Kurzfassungen benötigen eigene Zeitleisten und Freigaben
 
 Eine verkürzte Fassung konnte aus erhaltenen Textpassagen erstellt werden. Durch entfernte Wiederholungen und überlappende Übergänge änderten sich sowohl Liedtext als auch Zeilenzeiten. Änderung: Behaltene Quellbereiche und Überblendungen als Schnittplan speichern, Enddauer anhand der exportierten Frames prüfen und Liedtexte samt Zeitmarken pro Schnittversion neu ableiten. Die Bestätigung eines bereits vorhandenen Schlusses nicht als Freigabe neuer Übergänge ausgeben.
+
+## 2026-10-21 – Aufbau und Refrain zusammen erhalten
+
+Der Künstler beanstandete einen Übergang einer Kurzfassung: Der Aufbau versprach Energie, der entfernte Refrain ließ sie ausbleiben. Automatische Wortgrenzen und technische Pegelprüfungen hatten diesen musikalischen Fehler nicht erkannt. Änderung: Aufbau und erwarteten Refrain-Einsatz zusammen planen; Laufzeit bei Bedarf an einer anderen Wiederholung, im Vorspann oder in einer Brücke einsparen. Eine geänderte Fassung erneut als Hörentwurf vorlegen.

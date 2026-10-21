@@ -1,0 +1,56 @@
+{
+  "title": "Was bleibt? (Kurzfassung v2)",
+  "artist": "shockT project",
+  "created_utc": "2026-10-21T03:36:33.585300+00:00",
+  "duration_seconds": 229.20351473922904,
+  "target_max_seconds": 230,
+  "source_filename": "Was-bleibt_Schluss-v2_Edit.wav",
+  "source_sha256": "22df6220a5d36b714f354dc8636443dd95f941c3196d69446b0bfebc3f1042ce",
+  "timeline": [
+    {
+      "source_start": 5.4,
+      "source_end": 17.71,
+      "output_start": 0,
+      "output_end": 12.31
+    },
+    {
+      "source_start": 34.26,
+      "source_end": 84.6,
+      "output_start": 12.15,
+      "output_end": 62.49
+    },
+    {
+      "source_start": 102.5,
+      "source_end": 196.18,
+      "output_start": 62.42999999999999,
+      "output_end": 156.11
+    },
+    {
+      "source_start": 264.8,
+      "source_end": 337.973514739229,
+      "output_start": 156.03,
+      "output_end": 229.20351473922898
+    }
+  ],
+  "crossfades_seconds": [
+    0.16,
+    0.06,
+    0.08
+  ],
+  "reason": "Artist rejected v1 join at 02:02: buildup lost its expected energetic chorus. Restore the complete uninterrupted second chorus; shorten first chorus to first half, remove spoken bridge, shorten leading intro.",
+  "restored_chorus_source_seconds": [
+    138.7,
+    170.5
+  ],
+  "restored_chorus_output_seconds": [
+    98.63,
+    130.43
+  ],
+  "speed_change": false,
+  "new_generation": false,
+  "source_unchanged": true,
+  "subjective_listening_performed_by_agent": false,
+  "artist_approval": false,
+  "lyrics_submission_ready": false,
+  "provenance": "Original supplied WAV plus previously approved ending derived from provider MP3; source losses cannot be recovered."
+}

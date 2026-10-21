@@ -29,7 +29,7 @@ Vorhandene Werkzeuge verwenden. Bei Bedarf FFmpeg über ein seriöses Paket wie 
 
 Bei einem Laufzeitlimit zunächst einen nachvollziehbaren Schnittplan aus der vorhandenen Aufnahme erstellen. Vollständige Textgedanken und musikalische Phrasen erhalten; wiederholte Refrains, lange Vor-/Nachspiele und Zwischenpassagen als Kürzungskandidaten prüfen. Keine Beschleunigung oder Neugenerierung nur zum Einhalten der Dauer, sofern ein sinnvoller Schnitt ausreicht.
 
-Behaltene Quellbereiche, Ausgabezeiten und jede Überblendung dokumentieren. Die endgültige Dauer aus den tatsächlich exportierten Frames prüfen; Überblendungszeiten verkürzen die Gesamtlaufzeit zusätzlich. Neue Übergänge gesondert prüfen und nicht aus einer früheren Freigabe anderer Passagen als genehmigt ableiten.
+Behaltene Quellbereiche, Ausgabezeiten und jede Überblendung dokumentieren. Die endgültige Dauer aus den tatsächlich exportierten Frames prüfen; Überblendungszeiten verkürzen die Gesamtlaufzeit zusätzlich. Neue Übergänge gesondert prüfen und nicht aus einer früheren Freigabe anderer Passagen als genehmigt ableiten. Vor einem Refrainschnitt prüfen, ob der vorausgehende Aufbau gerade diesen Energieeinsatz erwarten lässt. Ein erhaltener Textgedanke und eine kurze Überblendung reichen nicht aus: Aufbau, Refrain-Einsatz und musikalische Auflösung als Einheit behandeln; nötigenfalls an anderer Stelle kürzen.
 
 Liedtext und Zeitmarken pro Schnittversion neu ableiten: entfernte Wiederholungen und Strophen auch im Text entfernen, Zeilenzeiten anhand der Schnittzeitleiste inklusive Überlappungen umrechnen und anschließend am finalen Audio prüfen. Automatisch umgerechnete Zeitmarken bleiben bis zur Hörprüfung Entwürfe. Jede neue Schnittfassung separat mastern, messen und versionieren.
 

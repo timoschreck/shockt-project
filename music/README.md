@@ -28,3 +28,5 @@ Alle Rechte verbleiben bei den jeweiligen Rechteinhabern. Die Ablage enthält ke
 Siehe [Liedtext-Katalog und Einreichungsstatus](LYRICS.md). Zu neuen Songs werden Originaltexte beschafft, Audio-Transkriptionsentwürfe erstellt und Wortlaut sowie Zeitmarken getrennt geprüft. Liedtexte für Spotify werden über den jeweils aktuellen Anbieter-Weg vorbereitet; Entwürfe werden ausdrücklich als solche gekennzeichnet.
 
 Bei „Was bleibt?“ wurde nach dem technischen Mastering ein möglicher textlicher Schlussabbruch erkannt. Das bestehende v1 ist technisch geprüft, hat aber weiterhin keine klangliche oder textliche Künstlerfreigabe. Eine [getrennte Schlussreparatur v2](was-bleibt/v2/README.md) mit neu generiertem Gesang liegt technisch geprüft vor; der neue Schluss wurde vom Künstler bestätigt. Eine separat geschnittene Kurzfassung bleibt bis zur neuen Hörprüfung als Hörfassung gekennzeichnet. v1 bleibt zur Nachvollziehbarkeit erhalten.
+
+Aktuelle Überarbeitung: [Was bleibt? – Kurzfassung v2](was-bleibt/short-v2/README.md), 3:49,2 Minuten, mit wiederhergestelltem zweiten Refrain. Hörfreigabe und Liedtextprüfung offen.

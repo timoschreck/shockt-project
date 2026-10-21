@@ -1,0 +1,66 @@
+{
+  "artist": "shockT project",
+  "title": "Was bleibt? (Kurzfassung v2)",
+  "created_utc": "2026-10-21T03:36:29.348553+00:00",
+  "source": {
+    "frames": 10107875,
+    "sample_rate": 44100,
+    "channels": 2,
+    "bits": 24,
+    "duration_seconds": 229.20351473922904,
+    "filename": "Was-bleibt_Kurzfassung_Edit_v2.wav",
+    "sha256": "da2c1955747f53233d40bf1abefbe7f268a80140cec44c056aa934ff3f9e0511",
+    "loudness": {
+      "input_i": "-13.65",
+      "input_tp": "-1.88",
+      "input_lra": "5.00",
+      "input_thresh": "-23.81",
+      "output_i": "-13.25",
+      "output_tp": "-1.00",
+      "output_lra": "4.50",
+      "output_thresh": "-23.35",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.75"
+    }
+  },
+  "processing": {
+    "cleanup": [
+      "highpass=f=15.0:p=2",
+      "afade=t=in:st=0:d=0.005",
+      "afade=t=out:st=229.183514739:d=0.02"
+    ],
+    "normalization": "loudnorm=I=-14.0:TP=-1.0:LRA=11:linear=true:measured_I=-13.65:measured_TP=-1.74:measured_LRA=5.00:measured_thresh=-23.81:offset=-0.75:print_format=json",
+    "type": "linear"
+  },
+  "final": {
+    "frames": 10107875,
+    "sample_rate": 44100,
+    "channels": 2,
+    "bits": 24,
+    "duration_seconds": 229.20351473922904,
+    "loudness": {
+      "input_i": "-14.00",
+      "input_tp": "-2.09",
+      "input_lra": "4.90",
+      "input_thresh": "-24.16",
+      "output_i": "-13.25",
+      "output_tp": "-1.00",
+      "output_lra": "4.50",
+      "output_thresh": "-23.35",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.75"
+    },
+    "wav_sha256": "8a4f3a4d1ece9c680757b843e5731bfe1ab2add051901c785fab165ddb0df222",
+    "flac_sha256": "878d65d1929734c0dbd1e07603d50e8b3479406251039d1816e9bc3dcd945475",
+    "decoded_pcm_sha256": "SHA256=f6ff80c6578bb3dca06d54d0da2ca3d91e3aedf6052955e5d720d3065d65246c"
+  },
+  "verification": {
+    "source_unchanged": true,
+    "sample_format_and_duration_pass": true,
+    "loudness_and_true_peak_pass": true,
+    "flac_equals_wav_pcm": true
+  },
+  "listening_review": "not performed by this script",
+  "note": "Technical master. 24-bit output does not recover missing source information.",
+  "tool_version": "ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers"
+}
