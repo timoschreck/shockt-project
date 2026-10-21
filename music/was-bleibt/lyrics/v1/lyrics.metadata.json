@@ -1,0 +1,31 @@
+{
+  "artist": "shockT project",
+  "source_title": "Was bleibt?",
+  "audio_version": "Master_v1",
+  "audio_sha256": "2d46bd715157803b7fe8982fb9cb4a74d911e264047ff1cb4db5e8ef82090466",
+  "duration_seconds": 330.481,
+  "source_lyrics": {
+    "provider": "MakeBestMusic",
+    "track_url": "https://makebestmusic.com/app/shared-music/7ec76335-650e-498b-b031-8c802d544a00",
+    "characters": 5000,
+    "ends_mid_word": true
+  },
+  "status": {
+    "source_reference_saved": true,
+    "audio_asr_draft": true,
+    "wording_verified": false,
+    "sync_verified": false,
+    "artist_approved": false,
+    "submission_ready": false,
+    "submitted_to_musixmatch": false,
+    "visible_on_spotify": false
+  },
+  "blockers": [
+    "Source ends after 5000 characters mid-word",
+    "Unclear final fragment around 302-304 seconds",
+    "Additional bridge repetition and uncertain vocal interlude around 230-265 seconds",
+    "Some source/ASR word mismatches require listening review"
+  ],
+  "spotify_track_url": null,
+  "isrc": null
+}

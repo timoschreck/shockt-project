@@ -1,0 +1,6 @@
+interface:
+  display_name: "Musik mastern und ablegen"
+  short_description: "Songs mastern, Liedtexte vorbereiten und geprüft ablegen"
+  default_prompt: "Nutze $master-and-publish-music, um diesen Song zu mastern, den Liedtext für Spotify vorzubereiten und die geprüften Dateien im gewählten Repository abzulegen."
+policy:
+  allow_implicit_invocation: true

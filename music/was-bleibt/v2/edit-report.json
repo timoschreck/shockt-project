@@ -1,0 +1,16 @@
+{
+  "input_original_sha256": "af63ac8a4b6739369aa761b715cb98831aba11429a617927d08519a657720efb",
+  "original_prefix_seconds": 302.0,
+  "pre_master_prefix_pcm_s16_sha256": "SHA256=882bcf35fec85260e9f1bd9f98efb503f25d26f002c111d4e3fc05974f7b8e3b",
+  "original_prefix_identical_before_mastering": true,
+  "crossfade_seconds": 0.02,
+  "new_audio_provider": "MakeBestMusic",
+  "provider_extension_url": "https://makebestmusic.com/app/shared-music/c373da9e-bd9d-4bd9-b62c-b39fcbf5f30a",
+  "provider_merge_url": "https://makebestmusic.com/app/shared-music/7bfdb15c-2695-433e-8164-5393cc81ab86",
+  "provider_download_format": "MP3, 48 kHz, stereo; lossy source for the new ending",
+  "editing": "Preserve supplied WAV through 302 s. Crossfade 20 ms into provider ending decoded and resampled to 44.1 kHz. Master complete edit separately.",
+  "status": "technically_verified_audition_candidate",
+  "artist_listening_approved": false,
+  "lyrics_submission_ready": false,
+  "submitted_to_musixmatch": false
+}

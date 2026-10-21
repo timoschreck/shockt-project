@@ -1,0 +1,674 @@
+[
+  {
+    "reference_line": 1,
+    "text": "Vier Zeiten.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 6.14,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 2,
+    "text": "Vier Leben.",
+    "matched_word_fraction": 0.5,
+    "candidate_start_seconds": null,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 3,
+    "text": "Ein paar Narben.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 10.62,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 4,
+    "text": "Und nur eine Frage:",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 12.2,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 5,
+    "text": "Was bleibt?",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 14.06,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 6,
+    "text": "Mit sechzehn war’n wir Könige im Block vor der Tür,",
+    "matched_word_fraction": 0.9,
+    "candidate_start_seconds": 37.2,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 7,
+    "text": "keinen Cent in der Tasche, doch zu stolz fürs Revier.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 39.42,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 8,
+    "text": "Frische Sneaker auf Pump, Hauptsache jeder blickt,",
+    "matched_word_fraction": 0.714,
+    "candidate_start_seconds": 41.48,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 9,
+    "text": "jedes Bild musste glänzen, auch wenn innen was bricht.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 43.54,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 10,
+    "text": "Jeder kannte den Namen, doch uns kannte hier keiner,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 45.62,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 11,
+    "text": "hundert Leute im Kreis – trotzdem fühlten wir uns einsamer.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 47.7,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 12,
+    "text": "Wir hielten Likes für Respekt, falsche Brüder für echt,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 49.98,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 13,
+    "text": "heute weiß ich: Große Worte machen keinen zum Chef.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 52.3,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 14,
+    "text": "Jeder Blick war wie Gericht,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 54.42,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 15,
+    "text": "entweder Gewinner oder nichts.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 56.8,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 16,
+    "text": "Doch wenn das Licht im Viertel bricht,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 58.76,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 17,
+    "text": "siehst du, wer bleibt – und wer dich fickt.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 60.84,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 18,
+    "text": "Jede Zeit nimmt ihren Schnitt,",
+    "matched_word_fraction": 0.8,
+    "candidate_start_seconds": 62.9,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 19,
+    "text": "nimmt ein Stück und Narben mit.",
+    "matched_word_fraction": 0.833,
+    "candidate_start_seconds": 64.92,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 20,
+    "text": "Wenn die ganze Fassade fällt,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 66.64,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 21,
+    "text": "siehst du, wer zu seinem Wort noch hält.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 68.52,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 22,
+    "text": "Was bleibt, was bleibt,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 71.02,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 23,
+    "text": "wenn das Leben alles neu verteilt?",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 73.52,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 24,
+    "text": "Nicht deine Karre, nicht dein Rang,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 77.34,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 25,
+    "text": "nur wer bei dir stand, als der Boden versank.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 79.66,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 26,
+    "text": "Was bleibt, was bleibt?",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 87.82,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 27,
+    "text": "Wer sein Wort nicht für Vorteile verkauft.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 89.7,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 28,
+    "text": "Wenn der schnelle Glanz im Dreck vergeht,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 93.88,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 29,
+    "text": "bleibt nur, wer in deiner dunkelsten Nacht zu dir steht.",
+    "matched_word_fraction": 0.5,
+    "candidate_start_seconds": null,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 30,
+    "text": "Mit zwanzig nur Tunnelblick, Abschluss und Cash,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 102.74,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 31,
+    "text": "jeden Tag Vollgas, Bruder, kein Schlaf, kein Rest.",
+    "matched_word_fraction": 0.875,
+    "candidate_start_seconds": 105.24,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 32,
+    "text": "Dieser Traum von damals lag begraben im Dreck,",
+    "matched_word_fraction": 0.875,
+    "candidate_start_seconds": 107.48,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 33,
+    "text": "denn wir jagten dem Erfolg bis ans Ende der Welt.",
+    "matched_word_fraction": 0.9,
+    "candidate_start_seconds": 109.18,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 34,
+    "text": "Wollten höher, immer weiter, bloß nie wieder zurück,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 111.26,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 35,
+    "text": "doch mit jedem neuen Schein ging ein Stück von uns mit.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 113.24,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 36,
+    "text": "Kontakte statt Freunde, Termine statt Zeit,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 115.38,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 37,
+    "text": "und wir nannten diesen Käfig auch noch Freiheit.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 117.4,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 38,
+    "text": "Mama sagte: „Junge, irgendwann zahlst du den Preis.“",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 119.58,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 39,
+    "text": "Ich hab gelacht und gesagt: „Keine Sorge, ich weiß.“",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 121.78,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 40,
+    "text": "Doch der Kopf wurde laut und das Herz wurde stumm:",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 124.06,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 41,
+    "text": "Du kannst alles gewinnen – und verlierst dich komplett.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 126.1,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 42,
+    "text": "Wir hatten Ziele, keine Zeit,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 128.28,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 43,
+    "text": "Brust voll Druck, doch nannten’s Freiheit.",
+    "matched_word_fraction": 0.5,
+    "candidate_start_seconds": null,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 44,
+    "text": "Jeder rannte, keiner hielt,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 132.92,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 45,
+    "text": "bis die Straße ihre Rechnung schrieb.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 135.02,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 46,
+    "text": "Was bleibt, was bleibt,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 139.12000000000003,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 47,
+    "text": "wenn das Leben alles neu verteilt?",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 140.98,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 48,
+    "text": "Nicht deine Karre, nicht dein Rang,",
+    "matched_word_fraction": 0.667,
+    "candidate_start_seconds": 145.02,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 49,
+    "text": "nur wer bei dir stand, als der Boden versank.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 147.32,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 50,
+    "text": "Was bleibt, was bleibt?",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 155.22,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 51,
+    "text": "Wer sein Wort nicht für Vorteile verkauft.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 157.26,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 52,
+    "text": "Wenn der schnelle Glanz im Dreck vergeht,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 161.48,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 53,
+    "text": "bleibt nur, wer in deiner dunkelsten Nacht zu dir steht.",
+    "matched_word_fraction": 0.8,
+    "candidate_start_seconds": 165.7,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 54,
+    "text": "Mit vierzig merkst du schnell: Viele reden nur Müll,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 170.64,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 55,
+    "text": "jeder schwört auf seine Ehre, bis er liefern muss – still.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 172.66,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 56,
+    "text": "Große Fresse, großes Herz, zumindest vor Publikum,",
+    "matched_word_fraction": 0.857,
+    "candidate_start_seconds": 174.78,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 57,
+    "text": "doch sobald kein Vorteil wartet, drehen sie sich nicht mehr um.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 176.88,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 58,
+    "text": "Heute prüf ich keine Worte, ich seh Taten und Blicke,",
+    "matched_word_fraction": 0.9,
+    "candidate_start_seconds": 178.92,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 59,
+    "text": "wer noch mit mir am Tisch sitzt, wenn ich gar nichts mehr biete.",
+    "matched_word_fraction": 0.923,
+    "candidate_start_seconds": 181.12,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 60,
+    "text": "Denn ein ehrliches Gespräch nachts um vier wiegt mehr",
+    "matched_word_fraction": 0.778,
+    "candidate_start_seconds": 183.12,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 61,
+    "text": "als ein Konto voller Zahlen und ein Haus, kalt und leer.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 185.06,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 62,
+    "text": "Ich hab Menschen verlor’n, die ich Brüder genannt hab,",
+    "matched_word_fraction": 0.889,
+    "candidate_start_seconds": 187.12,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 63,
+    "text": "und Fremde wurden Familie, als mein Leben gebrannt hat.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 189.36,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 64,
+    "text": "Keine Krone, kein Applaus und kein Titel der Welt",
+    "matched_word_fraction": 0.889,
+    "candidate_start_seconds": 191.76,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 65,
+    "text": "ist so viel wie eine Hand, die dich vorm Absturz noch hält.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 193.84,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 66,
+    "text": "Ich muss keinem mehr beweisen, wer ich bin.",
+    "matched_word_fraction": 0.875,
+    "candidate_start_seconds": 196.18,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 67,
+    "text": "Wer mich kennt, kennt auch die Narben unter meiner Haut.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 199.56,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 68,
+    "text": "Nicht jeder Traum, der starb,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 204.36,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 69,
+    "text": "war eine Niederlage.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 206.58,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 70,
+    "text": "Manche Türen mussten brechen,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 208.44,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 71,
+    "text": "damit ich endlich hier rauskam.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 210.56,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 72,
+    "text": "Was früher wie Scheitern aussah,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 213.24,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 73,
+    "text": "hat mich später gerettet.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 217.12,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 74,
+    "text": "Und die Wahrheit kommt nicht immer wie ein Blitz.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 219.3,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 75,
+    "text": "Manchmal braucht sie ein halbes Leben,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 225.3,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 76,
+    "text": "bis du ihr ins Gesicht sehen kannst.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 229.44,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 77,
+    "text": "Was bleibt?",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 248.44,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 78,
+    "text": "Wer hält?",
+    "matched_word_fraction": 0.0,
+    "candidate_start_seconds": null,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 79,
+    "text": "Wer geht?",
+    "matched_word_fraction": 0.0,
+    "candidate_start_seconds": null,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 80,
+    "text": "Wer fällt?",
+    "matched_word_fraction": 0.0,
+    "candidate_start_seconds": null,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 81,
+    "text": "Und später wird kostbar, was früher normal war:",
+    "matched_word_fraction": 0.875,
+    "candidate_start_seconds": 264.9200000000001,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 82,
+    "text": "ein Körper, der noch mitzieht, ein Bruder, der noch da war.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 267.42,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 83,
+    "text": "Ein Morgen ohne Schmerzen, ein Anruf ohne Grund,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 269.48,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 84,
+    "text": "jemand hört dir wirklich zu und hält für einen Moment den Mund.",
+    "matched_word_fraction": 0.583,
+    "candidate_start_seconds": 271.36,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 85,
+    "text": "Dann zählen keine Uhren, keine Marken, kein Benz,",
+    "matched_word_fraction": 0.625,
+    "candidate_start_seconds": null,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 86,
+    "text": "keine hundert falschen Hände, nur der eine echte Mensch.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 275.82,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 87,
+    "text": "Keine Story, keine Pose, kein künstliches Licht,",
+    "matched_word_fraction": 0.857,
+    "candidate_start_seconds": 277.86,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 88,
+    "text": "nur ein Blick, der dir noch sagt: „Bruder, ich verlass dich nicht.“",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 279.84,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 89,
+    "text": "Am Ende nimmt der Winter jede Maske vom Gesicht,",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 282.22,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 90,
+    "text": "und du siehst: Vieles glänzte, aber leuchtete nicht.",
+    "matched_word_fraction": 0.875,
+    "candidate_start_seconds": 284.14,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 91,
+    "text": "Was du hortest, bleibt zurück, wenn dein letzter Tag fällt,",
+    "matched_word_fraction": 0.7,
+    "candidate_start_seconds": null,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 92,
+    "text": "doch die Liebe, die du gabst, bleibt als Abdruck in der Welt.",
+    "matched_word_fraction": 0.917,
+    "candidate_start_seconds": 288.32,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 93,
+    "text": "Vier Zeiten nahmen Stück für Stück.",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 292.11999999999995,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 94,
+    "text": "Manches ging und kam nie zurück.",
+    "matched_word_fraction": 0.667,
+    "candidate_start_seconds": 296.26,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 95,
+    "text": "Heute weiß ich, was noch gilt:",
+    "matched_word_fraction": 1.0,
+    "candidate_start_seconds": 298.76,
+    "status": "unverified_reference_alignment"
+  },
+  {
+    "reference_line": 96,
+    "text": "Nicht, wer lau",
+    "matched_word_fraction": 0.667,
+    "candidate_start_seconds": 302.12,
+    "status": "unverified_reference_alignment"
+  }
+]

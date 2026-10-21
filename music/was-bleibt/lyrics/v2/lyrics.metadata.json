@@ -1,0 +1,25 @@
+{
+  "artist": "shockT project",
+  "title": "Was bleibt? – Schluss v2",
+  "audio_version": "shockT-project_Was-bleibt_Schluss-v2_Master_v2",
+  "master_sha256": "972df13a9417edf4ad61248054e15f138853c0f808d76e6b22689f8803d2f6d5",
+  "duration_seconds": 337.973514739229,
+  "provider_source_url": "https://makebestmusic.com/app/shared-music/7bfdb15c-2695-433e-8164-5393cc81ab86",
+  "status": {
+    "source_reference_saved": true,
+    "audio_asr_draft": true,
+    "wording_verified": false,
+    "sync_verified": false,
+    "artist_approved": false,
+    "submission_ready": false,
+    "submitted_to_musixmatch": false,
+    "visible_on_spotify": false
+  },
+  "review_required": [
+    "Inherited ambiguities of v1 before 302 seconds",
+    "New ending wording: 302-306, 309-311 and 313-316 seconds",
+    "Possible ASR hallucinations in instrumental outro after 326 seconds"
+  ],
+  "spotify_track_url": null,
+  "isrc": null
+}
