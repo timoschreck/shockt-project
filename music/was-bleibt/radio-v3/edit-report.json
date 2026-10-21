@@ -1,0 +1,73 @@
+{
+  "title": "Was bleibt? (Radiofassung v3)",
+  "artist": "shockT project",
+  "status": "technically_verified_listening_draft_artist_review_pending",
+  "created_utc": "2026-10-21T03:49:09.273752+00:00",
+  "duration_seconds": 227.96351473922903,
+  "target_max_seconds": 230,
+  "timeline": [
+    {
+      "source": "original_wav",
+      "start": 0,
+      "end": 17.71,
+      "output_start": 0
+    },
+    {
+      "source": "original_wav",
+      "start": 34.26,
+      "end": 138,
+      "output_start": 17.55
+    },
+    {
+      "source": "generated_variant_2_mp3",
+      "start": 0,
+      "end": 70.76,
+      "output_start": 121.27
+    },
+    {
+      "source": "approved_ending_premaster",
+      "start": 302,
+      "end": 337.973514739,
+      "output_start": 191.99
+    }
+  ],
+  "crossfades_seconds": [
+    0.16,
+    0.02,
+    0.04
+  ],
+  "sources": [
+    {
+      "filename": "Was bleibt.wav",
+      "sha256": "af63ac8a4b6739369aa761b715cb98831aba11429a617927d08519a657720efb"
+    },
+    {
+      "filename": "5074088c-2462-492a-b74e-8fe2d4d25c60.mp3",
+      "sha256": "4bbec3b9407ae1b54727cec9168aaea4ba9a6acdd360ba9813f7383e71e28c9b"
+    },
+    {
+      "filename": "Was-bleibt_Schluss-v2_Edit.wav",
+      "sha256": "22df6220a5d36b714f354dc8636443dd95f941c3196d69446b0bfebc3f1042ce"
+    }
+  ],
+  "generated_track_url": "https://makebestmusic.com/app/shared-music/f9854be6-103c-47e6-aa6b-6009f4165238",
+  "other_generated_track_url": "https://makebestmusic.com/app/shared-music/514527ba-2353-4b71-82ff-e93c9a3f4697",
+  "credits_used": 3,
+  "credits_before": 2759,
+  "credits_after": 2756,
+  "selection": "Variant 2 downloaded. Variant 1 native media navigation was blocked by client; not bypassed. Variant 2 first 70.76 s retained; its final refrain had repeated/unclear incomplete ending in ASR, so existing artist-approved ending was retained instead.",
+  "changes": "Regenerated second main chorus, compact eight-line autumn and winter verses and lead-in to finale. First two verses and first main chorus retained from original. Source original 17.71–34.26 instrumental removed as in short-v1.",
+  "speed_change": false,
+  "source_unchanged": true,
+  "subjective_listening_performed_by_agent": false,
+  "artist_approval": false,
+  "lyrics_submission_ready": false,
+  "submitted_to_spotify_or_musixmatch": false,
+  "provenance": "Generated sections and approved ending derive from provider MP3. WAV/FLAC exports do not restore source losses.",
+  "review_required": [
+    "Energy, timbre and join at 02:01.27 into regenerated chorus",
+    "Full new compact autumn and winter wording; ASR has ambiguities",
+    "Join at 03:11.99 into previously approved ending; prior approval does not approve this new join",
+    "Entire musical arc and exact lyric sync"
+  ]
+}

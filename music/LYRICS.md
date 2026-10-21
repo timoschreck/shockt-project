@@ -22,3 +22,5 @@ Die Dateien werden erst nach Abgleich mit der jeweiligen Aufnahme und Prüfung d
 Der projektübergreifende [Skill samt Quellen und Hilfsskripten](../workflows/master-and-publish-music/SKILL.md) enthält den gepflegten Ablauf. Neue Textfassungen und neu gesungene Audio-Versionen getrennt führen; der Spotify-Text muss zur tatsächlich veröffentlichten Version passen.
 
 Aktuelle Überarbeitung: [Was bleibt? – Kurzfassung v2](was-bleibt/short-v2/README.md), 3:49,2 Minuten, mit wiederhergestelltem zweiten Refrain. Hörfreigabe und Liedtextprüfung offen.
+
+Neue aktuelle Hörfassung: [Was bleibt? – Radiofassung v3](was-bleibt/radio-v3/README.md), 3:47,964 Minuten, mit MakeBestMusic-Fortsetzung. Die geschnittene Kurzfassung v2 wurde vom Künstler abgelehnt. Radio-v3 sowie Wortlaut und Synchronisation bleiben zur Prüfung offen.

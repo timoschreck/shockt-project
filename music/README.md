@@ -30,3 +30,5 @@ Siehe [Liedtext-Katalog und Einreichungsstatus](LYRICS.md). Zu neuen Songs werde
 Bei „Was bleibt?“ wurde nach dem technischen Mastering ein möglicher textlicher Schlussabbruch erkannt. Das bestehende v1 ist technisch geprüft, hat aber weiterhin keine klangliche oder textliche Künstlerfreigabe. Eine [getrennte Schlussreparatur v2](was-bleibt/v2/README.md) mit neu generiertem Gesang liegt technisch geprüft vor; der neue Schluss wurde vom Künstler bestätigt. Eine separat geschnittene Kurzfassung bleibt bis zur neuen Hörprüfung als Hörfassung gekennzeichnet. v1 bleibt zur Nachvollziehbarkeit erhalten.
 
 Aktuelle Überarbeitung: [Was bleibt? – Kurzfassung v2](was-bleibt/short-v2/README.md), 3:49,2 Minuten, mit wiederhergestelltem zweiten Refrain. Hörfreigabe und Liedtextprüfung offen.
+
+Neue aktuelle Hörfassung: [Was bleibt? – Radiofassung v3](was-bleibt/radio-v3/README.md), 3:47,964 Minuten, mit MakeBestMusic-Fortsetzung. Die geschnittene Kurzfassung v2 wurde vom Künstler abgelehnt. Radio-v3 sowie Wortlaut und Synchronisation bleiben zur Prüfung offen.

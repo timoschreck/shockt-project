@@ -1,0 +1,9 @@
+{
+  "version": "radio-v3",
+  "wording_verified": false,
+  "sync_verified": false,
+  "artist_approved": false,
+  "submission_ready": false,
+  "submitted_to_musixmatch": false,
+  "note": "Reference lyrics adapted to retained/generation structure. ASR LRC contains raw recognized text and is not a clean submission."
+}

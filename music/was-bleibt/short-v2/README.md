@@ -1,5 +1,7 @@
 # Was bleibt? – Kurzfassung v2
 
+**Vom Künstler ebenfalls abgelehnt; fortgesetzt mit [Radiofassung v3 aus MakeBestMusic](../radio-v3/README.md).**
+
 Gemasterte Hörfassung: **3:49,2 Minuten**. Künstlerfreigabe für diese neue Schnittfassung offen.
 
 Der Künstler hat den Übergang bei 02:02 der Kurzfassung v1 beanstandet: Der musikalische Aufbau ließ einen kraftvollen Refrain erwarten, der durch den Schnitt entfiel. In v2 bleibt der vollständige zweite Refrain einschließlich seines ursprünglichen Aufbaus und des Anschlusses an die dritte Strophe **ohne Schnitt** erhalten. Diese Stelle liegt nun etwa bei **01:39**.

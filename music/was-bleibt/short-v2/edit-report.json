@@ -52,5 +52,6 @@
   "subjective_listening_performed_by_agent": false,
   "artist_approval": false,
   "lyrics_submission_ready": false,
-  "provenance": "Original supplied WAV plus previously approved ending derived from provider MP3; source losses cannot be recovered."
+  "provenance": "Original supplied WAV plus previously approved ending derived from provider MP3; source losses cannot be recovered.",
+  "artist_review_result": "rejected: user said nein, passt nicht and requested MakeBestMusic"
 }

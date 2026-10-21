@@ -31,3 +31,7 @@ Eine verkürzte Fassung konnte aus erhaltenen Textpassagen erstellt werden. Durc
 ## 2026-10-21 – Aufbau und Refrain zusammen erhalten
 
 Der Künstler beanstandete einen Übergang einer Kurzfassung: Der Aufbau versprach Energie, der entfernte Refrain ließ sie ausbleiben. Automatische Wortgrenzen und technische Pegelprüfungen hatten diesen musikalischen Fehler nicht erkannt. Änderung: Aufbau und erwarteten Refrain-Einsatz zusammen planen; Laufzeit bei Bedarf an einer anderen Wiederholung, im Vorspann oder in einer Brücke einsparen. Eine geänderte Fassung erneut als Hörentwurf vorlegen.
+
+## 2026-10-21 – Generierungsdauer unabhängig messen
+
+Eine auf 100 bis höchstens 108 Sekunden angeforderte Fortsetzung ergab Varianten von etwa 119 und 134 Sekunden. Die längere Variante wiederholte im Finale zudem eine laut ASR möglicherweise unvollständige Zeile. Änderung: Promptdauer als Wunsch behandeln; tatsächliche Laufzeit und Textvollständigkeit vor Montage prüfen, Restzeit aus Quellpräfix und Überblendungen berechnen und Überlänge nicht durch blindes Abschneiden gesungener Wörter beheben.
