@@ -1,0 +1,44 @@
+{
+  "artist": "shockT project",
+  "title": "Was bleibt? (Radiofassung v4)",
+  "created_utc": "2026-10-21T04:48:29.649217+00:00",
+  "final": {
+    "frames": 10130983,
+    "sample_rate": 44100,
+    "channels": 2,
+    "bits": 24,
+    "duration_seconds": 229.72750566893424,
+    "loudness": {
+      "input_i": "-14.22",
+      "input_tp": "-2.54",
+      "input_lra": "5.40",
+      "input_thresh": "-24.43",
+      "output_i": "-13.49",
+      "output_tp": "-1.00",
+      "output_lra": "4.80",
+      "output_thresh": "-23.60",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.51"
+    },
+    "wav_sha256": "f02aaea2fcfae36c9aabccb22fd050b9cd07e5fb021f6c8dbd5e4a1d5c4f0ecf",
+    "flac_sha256": "84f73a31d182994ed6e9a181a48f3f91cd5b5945b32236f541d3ca0cd8a38241",
+    "decoded_pcm_sha256": "SHA256=6a39b796ea4225a8485217ff9cfbff925151cd264b4e839f6792ab9f7986c46b"
+  },
+  "processing": "Only new ending mastered separately, then joined to existing v3 master. No additional processing of accepted prefix.",
+  "tail_processing": {
+    "cleanup": [
+      "afade=t=in:st=0:d=0.002",
+      "afade=t=out:st=38.367505669:d=0.15"
+    ],
+    "normalization": "loudnorm=I=-14.0:TP=-1.0:LRA=11:linear=true:measured_I=-12.38:measured_TP=-1.65:measured_LRA=2.80:measured_thresh=-22.67:offset=-0.57:print_format=json",
+    "type": "linear"
+  },
+  "verification": {
+    "first_190_seconds_identical_pcm_to_v3": true,
+    "source_files_unchanged": true,
+    "flac_equals_wav_pcm": true,
+    "duration_within_230_seconds": true,
+    "loudness_and_true_peak_pass": true
+  },
+  "listening_review": "Not performed by agent; new ending and joins require artist review."
+}

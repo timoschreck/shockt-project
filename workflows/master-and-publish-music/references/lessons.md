@@ -35,3 +35,7 @@ Der Künstler beanstandete einen Übergang einer Kurzfassung: Der Aufbau verspra
 ## 2026-10-21 – Generierungsdauer unabhängig messen
 
 Eine auf 100 bis höchstens 108 Sekunden angeforderte Fortsetzung ergab Varianten von etwa 119 und 134 Sekunden. Die längere Variante wiederholte im Finale zudem eine laut ASR möglicherweise unvollständige Zeile. Änderung: Promptdauer als Wunsch behandeln; tatsächliche Laufzeit und Textvollständigkeit vor Montage prüfen, Restzeit aus Quellpräfix und Überblendungen berechnen und Überlänge nicht durch blindes Abschneiden gesungener Wörter beheben.
+
+## 2026-10-21 – Freigabe gilt im musikalischen Zusammenhang
+
+Ein zuvor bestätigter Schluss klang laut Künstler nach Anschluss an eine neue Radio-Passage wie ein anderes Lied. Änderung: Die tatsächlich vorausgehende neue Passage als Quelle für eine Fortsetzung nutzen; alte Einzel-Freigabe nicht als Klangpassung in einem neuen Arrangement behandeln. Einen bestätigten Anfang gezielt schützen und bei zugesagter unveränderter Übernahme mit PCM-Vergleich belegen.

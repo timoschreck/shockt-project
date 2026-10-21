@@ -1,5 +1,7 @@
 # Was bleibt? – Radiofassung v3
 
+**Künstlerfeedback: bis 03:10 bestätigt, Schlussanschluss abgelehnt. Überarbeitet in [Radiofassung v4](../radio-v4/README.md).**
+
 **Neue MakeBestMusic-Fortsetzung mit kompakten Strophen, 3:47,964 Minuten. Gemasterte Hörfassung; neue Künstlerfreigabe offen.**
 
 Nach Ablehnung der beiden rein geschnittenen Kurzfassungen wurde das eigene Original ab 02:18 in MakeBestMusic fortgesetzt. Zwei Varianten kosteten zusammen drei bereits vorhandene Credits (2759 → 2756), ohne Kauf. Verwendet wird [Variante 2](https://makebestmusic.com/app/shared-music/f9854be6-103c-47e6-aa6b-6009f4165238). Variante 1 wurde ebenfalls erzeugt; ihre native Mediennavigation wurde vom Browser blockiert und nicht umgangen.

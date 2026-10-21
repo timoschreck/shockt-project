@@ -1,0 +1,49 @@
+{
+  "title": "Was bleibt? (Radiofassung v4)",
+  "artist": "shockT project",
+  "duration_seconds": 229.72750566893424,
+  "target_max_seconds": 230,
+  "timeline": [
+    {
+      "source": "radio_v3_master",
+      "start": 0,
+      "end": 191.27,
+      "output_start": 0
+    },
+    {
+      "source": "new_ending_variant1",
+      "start": 5.54,
+      "end": 34.4,
+      "output_start": 191.21
+    },
+    {
+      "source": "new_ending_variant1",
+      "start": 42.676,
+      "end": 52.3735,
+      "output_start": 220.03
+    }
+  ],
+  "crossfades_seconds": [
+    0.06,
+    0.04
+  ],
+  "sources": [
+    {
+      "filename": "shockT-project_Was-bleibt_Radiofassung_Master_v3.wav",
+      "sha256": "78a58b3168ce1799a7a6d0c86743a4927a9576bb68abdcfabcdfb17717ab10e1"
+    },
+    {
+      "filename": "Was bleibt – Radio v4 Schluss(1).mp3",
+      "sha256": "d34c8cbfcd39829d86ef3f7864a70283bef370acb6288d5e3fadefec75495337"
+    }
+  ],
+  "changes": "Keep radio-v3 through 03:11.21; replace old-ending splice with new ending generated from the actual radio-v3(2) source at 01:10. Remove generated leading repeats of Heute weiss ich and shorten purely instrumental outro while retaining its final cadence.",
+  "artist_feedback": "Perfect until 03:10; older ending sounds like a different song. Breakdown acceptable only with coherent musical continuity.",
+  "artist_approval_scope": "v3 prefix through 190 seconds approved. v4 ending, new joins, full wording and sync still pending.",
+  "new_ending_approved": false,
+  "subjective_listening_performed_by_agent": false,
+  "lyrics_submission_ready": false,
+  "submitted_to_spotify_or_musixmatch": false,
+  "selection": "Variant 1 ASR has cleaner central closing lines than variant 2. Leading repeats trimmed; final Wer bleibt ASR ambiguous. ASR is not listening approval.",
+  "provenance": "New ending derived from provider MP3; prior v3 prefix retains its documented original/generated provenance."
+}

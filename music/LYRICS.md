@@ -24,3 +24,5 @@ Der projektübergreifende [Skill samt Quellen und Hilfsskripten](../workflows/ma
 Aktuelle Überarbeitung: [Was bleibt? – Kurzfassung v2](was-bleibt/short-v2/README.md), 3:49,2 Minuten, mit wiederhergestelltem zweiten Refrain. Hörfreigabe und Liedtextprüfung offen.
 
 Neue aktuelle Hörfassung: [Was bleibt? – Radiofassung v3](was-bleibt/radio-v3/README.md), 3:47,964 Minuten, mit MakeBestMusic-Fortsetzung. Die geschnittene Kurzfassung v2 wurde vom Künstler abgelehnt. Radio-v3 sowie Wortlaut und Synchronisation bleiben zur Prüfung offen.
+
+Aktuelle Hörfassung: [Was bleibt? – Radiofassung v4](was-bleibt/radio-v4/README.md), 3:49,728 Minuten. Bestätigter Anfang bis 03:10 PCM-identisch erhalten, neuer Schluss aus derselben Radio-Passage. Schluss-/Gesamtfreigabe und Liedtextprüfung offen.

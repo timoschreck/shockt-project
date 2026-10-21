@@ -69,5 +69,10 @@
     "Full new compact autumn and winter wording; ASR has ambiguities",
     "Join at 03:11.99 into previously approved ending; prior approval does not approve this new join",
     "Entire musical arc and exact lyric sync"
-  ]
+  ],
+  "artist_review": {
+    "approved_audio_until_seconds": 190,
+    "rejected_ending_join": true,
+    "feedback": "Perfect until 03:10, then sounds like a different song. Breakdown okay only if coherent."
+  }
 }
